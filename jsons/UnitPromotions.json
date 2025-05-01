@@ -1,0 +1,10 @@
+[
+       {
+		"name": "[Conquistador] ability",
+		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>"]
+	},
+        {
+		"name": "[Order of Aviz] ability",
+		"uniques": ["Unit will heal every turn, even if it performs an action <when fighting in [Enemy] tiles>"]
+	}
+]

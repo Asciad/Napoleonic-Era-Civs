@@ -1,0 +1,112 @@
+[
+	{
+		"name": "Castile",
+		"leaderName": "Isabela I",
+		"adjective": ["Castilian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": " ",
+		"hateHello": " ",
+
+		"tradeRequest": " ",
+
+		"outerColor": [247,216,1],
+		"innerColor": [120,0,1],
+		"favoredReligion": "Christianity",
+		"uniqueName": "La Reconquista",
+		"uniques":["Gain [30] [Faith] <upon conquering a city> <in cities not following a [your] religion> <(modified by game progress up to [100]%)>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","[+1 Faith, +1 Gold] [in all cities] <on foreign continents>"]
+    
+		"cities":["Toledo","Leon","Valladolid","Burgos","Oviedo","Madrid","Santiago","Segovia","Avila","Bilbao","Salamanca","Santander","Soria","Badajoz",
+			"Tordesillas","Finisterre","Calatrava","Aguilar","Zamora","Cuenca","Corunna","Las Navas de Tolosa","Murcia","Cartagena","Merida","Toro","Cordoba","Seville"
+			,"Cadiz","Alicante","Ciudad Real","Gijon","Jaen","Plasencia","Camora","Penafiel","Caceres","Siguenza","Albacete","Almagaro"]
+    
+        },
+	{
+		"name": "Portugal",
+		"leaderName": "Afonso I",
+		"adjective": ["Portuguese"],
+                "startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": " ",
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": " ",
+		"hateHello": " ",
+
+		"tradeRequest": " ",
+
+		"outerColor": [240,240,240],
+		"innerColor": [8,25,115],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Miracle of Ourique",
+		"uniques":["[+15]% Strength <when fighting in [Friendly] tiles>","[+1 Faith] <in cities with a [Temple]>","[+1 Gold] from each trade route"]
+    
+		"cities":["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda","Evora","Faro","Castelo Branco","Bissau","Guarda"
+		,"Viseu","Praia","Braganza","Beja","Tomar","Maputo","Tavira","Figueira da Foz","Viana do Castelo","SÃ£o TomÃ© and PrÃ­ncipe","Silves","Sintra","Dili",
+		"Lamego","Ponta Delgada"]
+    
+	},
+	{
+		"name": "Aragon",
+		"leaderName": "Alfonso V",
+		"adjective": ["Aragonese"],
+                "startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": " ",
+		"declaringWar": " ",
+		"attacked": " ",
+		"defeated": " ",
+		"introduction": " ",
+
+		"neutralHello": " ",
+		"hateHello": " ",
+
+		"tradeRequest": " ",
+
+		"outerColor": [120,0,1],
+		"innerColor": [247,216,1],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Crown of the Mediterranean",
+		"uniques":["[+40]% Production when constructing [{Military} {Water}] units [in puppeted cities]","[+20]% Production when constructing [{Military} {Water}] units [in annexed cities]","May not annex cities","[+2 Gold, +1 Culture, +1 Happiness] per [4] population [in puppeted cities]"]
+    
+		"cities":["Zaragoza","Barcelona","Valencia","Palma","Huesca","Alicante","Murcia","Girona","Tarragona","Castello","Lleida","Perpignan","Teruel","Ibiza","Ciutadella de Menorca",
+			"L'Hospitalet de Llobregat","Elche","Badalona","Benetusser","Torrent","Mahon","Naples","Palermo","Athens","Cagliari","Neopatras","Andorra"]
+
+	},
+	{
+		"name": "Navarre",
+		"adjective": ["Navarrese"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "The mountain folk will not go quietly!",
+		"attacked": "Our ancient kingdom will endure!",
+		"defeated": "Navarre falls... but our spirit lives on!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [209,202,112],
+		"cities": ["Pamplona"]
+	},
+	{
+		"name": "Granada",
+		"adjective": ["Granadan"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You dare strike the jewel of al-Andalus?",
+		"attacked": "The Nasrids shall not forget this!",
+		"defeated": "Granada... fades into legend...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [133,168,127],
+		"uniques": ["Gain a free [Alhambra] [in capital] <after discovering [Chivalry]>"],
+		"cities": ["Granada"]
+	}
+]

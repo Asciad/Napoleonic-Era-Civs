@@ -1,0 +1,62 @@
+[
+   {
+		"name": "Jinete",
+		"unitType": "Mounted",
+	   	"replaces": "Horseman",
+		"uniqueTo": "Castile",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-25]% Strength <vs cities> <when attacking>","[+15]% to Flank Attack bonuses","[+15]% Strength <in [Hill] tiles>"],
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+                "obsoleteTech": "Gunpowder", 
+		"upgradesTo": "Knight",
+		"requiredResource": "Horses",
+		"attackSound": "horse"
+   },
+   {
+		"name": "Conquistador (Castile)",
+		"unitType": "Mounted",
+	   	"replaces": "Knight",
+		"uniqueTo": "Castile",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
+                "promotions": ["[Conquistador] ability"],
+		"movement": 4,
+		"strength": 20,
+		"cost": 135,
+		"requiredTech": "Chivalry",
+                "obsoleteTech": "Military Science", 
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"attackSound": "horse"
+    },
+    {
+		"name": "Knight of Aviz",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Portugal",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+	        "promotions": ["[Order of Aviz] ability"],
+		"movement": 4,
+		"strength": 20,
+		"cost": 128,
+		"requiredTech": "Chivalry",
+                "obsoleteTech": "Military Science", 
+		"upgradesTo": "Cavalry",
+		"attackSound": "horse"
+    },
+    {
+		"name": "Almugavares",
+		"unitType": "Melee",
+	   	"replaces": "Pikeman",
+		"uniqueTo": "Aragon",
+		"uniques": ["[+50]% Strength <vs [Mounted] unitd>","Ignores terrain cost","Earn [45]% of killed [Military] unit's [cost] as [Gold]"],
+		"movement": 2,
+		"strength": 16,
+		"cost": 65,
+		"requiredTech": "Civil Service",
+                "obsoleteTech": "Metallurgy", 
+		"upgradesTo": "Lancer",
+		"attackSound": "metalhit"
+    }
+]
