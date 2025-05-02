@@ -24,15 +24,19 @@
 		"uniqueName": "La Grande Armée",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]","[+15]% Strength <for [{Land}] units> <when adjacent to a [{Friendly} {Land}] units>","[+1] Movement <for [{Land}] units> <when adjacent to a [{Friendly} {Land}] units>"],
 
-		"cities": ["Paris", "Lyon", "Marseille", "Toulouse", "Bordeaux", "Strasbourg", "Lille", "Dijon", "Nantes", "Nice",
-			"Rouen", "Metz", "Reims", "Tours", "Orléans", "Grenoble", "Amiens", "Nancy", "Troyes", "Caen"]
+		"cities": ["Paris","Marseille","Lyon","Bordeaux","Rouen","Nantes","Toulouse","Rome","Amsterdam","Lille","Toulon","Barcelona","Brussels",
+			"Strasbourg","Geneva","Brest","Metz","Turin","Florence","Saint-Étienne","Nîmes","Amiens","Orléans","Cologne","Hamburg","Angers",
+			"Caen","Montpellier","Nancy","Münster","Bremen","Reims","Le Havre","Besançon","Limoges","Rennes","Avignon","Lübeck","Versailles",
+			"Rotterdam","Nice","Trieste","Clermont-Ferrand","Tours","Dijon","Genoa","Mulhouse","Grenoble","Antwerp","Utrecht","Boulogne","Cherbourg",
+			"Dunkirk","Tourcoing","Troyes","Arras","Aix-en-Provence","The Hague","Bayonne","Poitiers","Arles","Le Mans","Calais","Luxembourg",
+			"Laibach","Erfurt","Liège","Bruges","Cattaro","Zara","Ragusa","Segna","Lunéville","Ajaccio"],
 
 	}, 
 	{ 
 		"name": "Great Britain", 
 		"leaderName": "George III", 
 		"adjective": ["British"], 
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "King George III, sovereign of the British Empire and ruler of the seas, your fleets dominate the waves.",
 		"startIntroPart2": "Will Britannia continue to rule or be cast down from its lofty perch?",
@@ -52,15 +56,16 @@
 		"uniqueName": "Rule Britannia",
 		"uniques": ["+1 [Gold] from sea tiles","Naval units gain +1 movement and +10% [Combat Strength]","Colonial cities (on other continents) generate +25% [Production]"],
 
-		"cities": ["London", "Liverpool", "Manchester", "Bristol", "Glasgow", "Edinburgh", "Birmingham", "Portsmouth",
-			"Dublin", "Cork","Aberdeen", "Newcastle", "Leeds", "Sheffield", "Nottingham", "York", "Exeter", "Belfast", "Cardiff"]
+		"cities":["London","Manchester","Liverpool","Birmingham","Bristol","Leeds","Sheffield","Edinburgh","Glasgow","Dublin","Newcastle","Plymouth",
+			"Portsmouth","Norwich","Nottingham","Hull","Leicester","Exeter","Coventry","York","Bath","Sunderland","Wolverhampton","Derby","Southampton",
+			"Bradford","Brighton","Preston","Chester","Canterbury","Oxford"]
 
 	},
 	{ 
 		"name": "Austrian Empire", 
 		"leaderName": "Francis II",
 		"adjective": ["Austrian"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Emperor Francis II, last Holy Roman Emperor and ruler of Austria, your empire stands at the heart of Europe.",
 		"startIntroPart2": "Will you preserve the old order or give way to revolution?",
@@ -80,9 +85,10 @@
 		"uniqueName": "Imperial Reform",
 		"uniques": ["+15% [Production] when building [Wonders]","Allied [City-States] provide +25% more [Influence] per turn","Units start with the [Drill I] promotion"],
 
-		"cities": ["Vienna", "Prague", "Budapest", "Linz", "Graz", "Innsbruck", "Brno", "Krakow", "Lviv", "Salzburg",
-			"Trieste", "Cluj", "Sibiu", "Bratislava", "Zagreb", "Ljubljana", "Timisoara", "Debrecen", "Olomouc"]
-
+		"cities": ["Vienna","Prague","Budapest","Graz","Brno","Lviv","Trieste","Innsbruck","Salzburg","Klagenfurt","Ljubljana","Zagreb","Debrecen",
+			"Sibiu","Temesvár","Pressburg","Olomouc","Krems","Linz","Sopron","Maribor","Košice","České Budějovice","Timișoara","Sarajevo","Mostar",
+			"Novi Sad","Subotica","Fiume","Esztergom"],
+		
 	},
 	{
 		"name": "Kingdom of Prussia", 
@@ -108,8 +114,9 @@
 		"uniqueName": "Krümpersystem",
 		"uniques": ["All melee units train 25% faster","Units gain +10 XP when adjacent to a [General]","Barracks and Armories provide +1 [Science]"],
 
-		"cities": ["Berlin", "Königsberg", "Breslau", "Potsdam", "Magdeburg", "Stettin", "Danzig", "Cologne", "Hannover", "Frankfurt",
-			"Düsseldorf", "Leipzig", "Darmstadt", "Erfurt", "Kassel", "Aachen", "Brunswick", "Mainz", "Bonn"]
+		"cities": ["Berlin","Königsberg","Breslau","Stettin","Magdeburg","Potsdam","Danzig","Erfurt","Cologne","Frankfurt an der Oder","Leipzig",
+			"Halle","Tilsit","Kassel","Glogau","Cottbus","Brandenburg","Marienburg","Allenstein","Elbing","Wittenberg","Naumburg","Merseburg",
+			"Neisse","Liegnitz","Paderborn","Hamm","Goslar","Nordhausen","Prenzlau"],
 		
 	},
 	{ 
@@ -136,15 +143,16 @@
 		"uniqueName": "General Winter",
 		"uniques": ["Units in friendly territory heal +25 HP per turn during [Winter] (cold biomes)","Snow and Tundra tiles yield +1 [Production] and +1 [Faith]","Mounted units gain +15% [Combat Strength] in open terrain"],
 
-		"cities": ["Moscow", "St. Petersburg", "Smolensk", "Kazan", "Kiev", "Sevastopol", "Novgorod", "Vladivostok", "Astrakhan", "Odessa",
-			"Rostov", "Tula", "Perm", "Tver", "Irkutsk", "Yaroslavl", "Ryazan", "Vologda", "Tambov"]
-
+		"cities": ["Moscow","St. Petersburg","Kazan","Kiev","Odessa","Riga","Smolensk","Tula","Tver","Minsk","Brest","Kharkov","Nizhny Novgorod",
+			"Voronezh","Astrakhan","Yaroslavl","Arkhangelsk","Tambov","Pskov","Novgorod","Poltava","Oryol","Ryazan","Kursk","Bryansk","Kaluga",
+			"Saratov","Tobolsk","Tomsk","Kronstadt"],
+		
 	}, 
 	{ 
 		"name": "Ottoman Empire", 
 		"leaderName": "Selim III", 
 		"adjective": ["Ottoman"], 
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "Sultan Selim III, reformer of the Ottoman Empire, your lands stretch across continents.",
 		"startIntroPart2": "Will you restore glory through modernization or fall to encroaching powers?",
@@ -164,15 +172,16 @@
 		"uniqueName": "Nizam-i Cedid",
 		"uniques": ["Barracks provide +1 [Science] and +1 [Happiness]","All land units cost 10% less [Production] to train","Trade routes generate +1 [Gold] for every different religion in the destination city"],
 
-		"cities": ["Istanbul", "Edirne", "Bursa", "Ankara", "Izmir", "Aleppo", "Damascus", "Baghdad", "Skopje", "Belgrade",
-			"Jerusalem", "Tripoli", "Cairo", "Alexandria", "Tunis", "Salonika", "Kars", "Mosul", "Konya"]
-
+		"cities": ["Constantinople","Bursa","Cairo","Aleppo","Edirne","Mecca","Kudüs","Medina","Salonica","Trabzon","Kayseri","Erzurum","Amasya",
+			"Karaman","Iznik","Rosetta","Alexandria","Damascus","Athens","Belgrade","Izmit","Tripoli","Algiers","Sofia","Gallipoli","Ankara",
+			"Varna","Sarajevo","Jaffa","Nis","Pristine","Ioannina","Sinop","Lezhë","Podgoric"],
+		
 	},
 	{
 		"name": "Kingdom of Spain", 
 		"leaderName": "Charles IV", 
 		"adjective": ["Spanish"], 
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "King Charles IV, ruler of a once-mighty empire, Spain looks to you to reclaim its glory.",
 		"startIntroPart2": "Can you restore order amid chaos and resist the tide of revolution?",
@@ -192,36 +201,9 @@
 		"uniqueName": "Guerrilla Española",
 		"uniques": ["Enemy units suffer -10% [Combat Strength] in Spanish territory","Recon units gain +1 Sight and may enter enemy territory without open borders","Units receive +15% [Combat Strength] when adjacent to another friendly unit"],
 
-		"cities": ["Madrid", "Seville", "Barcelona", "Valencia", "Toledo", "Granada", "Cordoba", "Zaragoza", "Malaga", "Cadiz",
-			"Valladolid", "Burgos", "Oviedo", "Bilbao", "Salamanca", "Santiago", "Leon", "Pamplona"]
-
-	}, 
-	{ 
-		"name": "Kingdom of Naples", 
-		"leaderName": "Ferdinand IV", 
-		"adjective": ["Neapolitan"], 
-		"preferredVictoryType": "Culture",
-
-		"startIntroPart1": "King Ferdinand IV, ruler of Naples and Sicily, the sun-kissed bastions of the Mediterranean,",
-		"startIntroPart2": "Will you preserve your throne amid revolution and invasion, or lose it to the tide of change?",
-		"declaringWar": "You shall regret disturbing our tranquil shores!",
-		"attacked": "The Kingdom will not fall so easily!",
-		"defeated": "The crown... slips away... once more...",
-		"introduction": "I am Ferdinand, by the grace of God, King of Naples and Sicily. State your business, swiftly.",
-
-		"neutralHello": "We are listening, though we are cautious.",
-		"hateHello": "Treachery will not be tolerated in our lands.",
-
-		"tradeRequest": "Speak. Naples always considers trade with due respect.",
-
-		"outerColor": [234, 192, 134],
-		"innerColor": [60, 90, 153],
-		"favoredReligion": "Catholicism",
-		"uniqueName": "Restored Bourbon Rule",
-		"uniques": ["Cities on coastal tiles generate +2 [Gold] and +1 [Culture]; +1 [Production] if garrisoned","Receive a free [Great Admiral] upon researching Navigation if you have at least 3 coastal cities","Allied City-States grant +20% [Naval Unit] production and share their [Naval Unit] promotions"],
-
-		"cities": ["Naples", "Palermo", "Messina", "Catania", "Bari", "Salerno", "Reggio Calabria", "Taranto", "Lecce", "Avellino",
-			"Trapani", "Agrigento", "Cosenza", "Siracusa"]
-
-	}	
+		"cities": ["Madrid","Barcelona","Seville","Valencia","Zaragoza","Granada","Toledo","Cádiz","Málaga","Bilbao","Salamanca","Valladolid","Burgos",
+			"Santiago de Compostela","Pamplona","Santander","Murcia","Alicante","La Coruña","León","Almería","Logroño","Oviedo","Cuenca","Huesca",
+			"Jaén","Palma","Badajoz","Tarragona","Gijón","Ciudad Real","Guadalajara","Cáceres","Lugo","Segovia","Teruel","Vigo","Elche","Jerez"],
+		
+	}
 ]
