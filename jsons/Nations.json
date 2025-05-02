@@ -5,20 +5,20 @@
 		"adjective": ["French"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Emperor Napoleon, master of Europe and architect of modern warfare, the world quakes beneath your ambitions.",
-		"startIntroPart2": "Will you forge a legacy of glory or collapse under the weight of empire?",
-		"declaringWar": "France shall write history in cannon smoke!",
-		"attacked": "So, the dogs bark. Let them come!",
+		"startIntroPart1": "Long life and triumph to you, First Consul and Emperor of France, Napoleon I, ruler of the French people. France lies at the heart of Europe. Long has Paris been the world center of culture, arts and letters. Although surrounded by competitors - and often enemies - France has endured as a great nation. Its armies have marched triumphantly into battle from one end of the world to the other, its soldiers and generals among the best in history.",
+		"startIntroPart2": "Napoleon Bonaparte, France yearns for you to rebuild your empire, to lead her once more to glory and greatness, to make France once more the epicenter of culture and refinement. Emperor, will you ride once more against your foes? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "I have made all the calculations; fate will do the rest.",
+		"attacked": "The bullet that will kill me is not yet cast.",
 		"defeated": "There's nothing we can do.",
-		"introduction": "I am Napoleon Bonaparte, Emperor of the French. Let us see if you are worth my time.",
+		"introduction": "I am Napoleon, and I am here to decide the fate of the world.",
 
 		"neutralHello": "The Empire endures. For now, so do you.",
 		"hateHello": "You have outlived your usefulness.",
 
-		"tradeRequest": "France considers your offer. Speak quickly.",
+		"tradeRequest": "France considers your offer. Speak.",
 
-		"outerColor": [0, 38, 84],
-		"innerColor": [255, 255, 255],
+		"outerColor": [66, 100, 174],
+		"innerColor": [242, 244, 183],
 		"favoredReligion": "Christianity",
 
 		"uniqueName": "La Grande Armée",
