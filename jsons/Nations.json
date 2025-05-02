@@ -1,71 +1,115 @@
 [
 	{
-		"name": "French Empire",
-		"leaderName": "Napoleon Bonaparte",
+		"name": "French Empire", 
+		"leaderName": "Napoleon I", 
 		"adjective": ["French"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": " ",
-		"declaringWar": " ",
-		"attacked": " ",
-		"defeated": " ",
-		"introduction": " ",
+		"startIntroPart1": "Emperor Napoleon, master of Europe and architect of modern warfare, the world quakes beneath your ambitions.",
+		"startIntroPart2": "Will you forge a legacy of glory or collapse under the weight of empire?",
+		"declaringWar": "France shall write history in cannon smoke!",
+		"attacked": "So, the dogs bark. Let them come!",
+		"defeated": "My star... it falls...",
+		"introduction": "I am Napoleon Bonaparte, Emperor of the French. Let us see if you are worth my time.",
 
-		"neutralHello": " ",
-		"hateHello": " ",
+		"neutralHello": "The Empire endures. For now, so do you.",
+		"hateHello": "You have outlived your usefulness.",
 
-		"tradeRequest": " ",
+		"tradeRequest": "France considers your offer. Speak quickly.",
 
-		"outerColor": [247,216,1],
-		"innerColor": [120,0,1],
+		"outerColor": [0, 38, 84],
+		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
-		"uniqueName": "La Reconquista",
-		"uniques":["Gain [30] [Faith] <upon conquering a city> <in cities not following a [your] religion> <(modified by game progress up to [100]%)>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","[+1 Faith, +1 Gold] [in all cities] <on foreign continents>"]
-    
-		"cities":["Toledo","Leon","Valladolid","Burgos","Oviedo","Madrid","Santiago","Segovia","Avila","Bilbao","Salamanca","Santander","Soria","Badajoz",
-			"Tordesillas","Finisterre","Calatrava","Aguilar","Zamora","Cuenca","Corunna","Las Navas de Tolosa","Murcia","Cartagena","Merida","Toro","Cordoba","Seville"
-			,"Cadiz","Alicante","Ciudad Real","Gijon","Jaen","Plasencia","Camora","Penafiel","Caceres","Siguenza","Albacete","Almagaro"]
-    
-        },
-	{
-		"name": "Great Britain",
-		"leaderName": "George III",
-		"adjective": ["British"],
+
+		"uniqueName": "Grande Armée",
+		"uniques": ["Conquered cities start with a [Courthouse] and provide +10 XP to trained units","Units gain +15% [Combat Strength] when adjacent to another friendly military unit","[Military Academies] grant +2 [Culture] and +1 [Production]"],
+
+		"cities": ["Paris", "Lyon", "Marseille", "Toulouse", "Bordeaux", "Strasbourg", "Lille", "Dijon", "Nantes", "Nice",
+			"Rouen", "Metz", "Reims", "Tours", "Orléans", "Grenoble", "Amiens", "Nancy", "Troyes", "Caen"]
+
+	}, 
+	{ 
+		"name": "Great Britain", 
+		"leaderName": "George III", 
+		"adjective": ["British"], 
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": " ",
-		"declaringWar": " ",
-		"attacked": " ",
-		"defeated": " ",
-		"introduction": " ",
+		"startIntroPart1": "King George III, sovereign of the British Empire and ruler of the seas, your fleets dominate the waves.",
+		"startIntroPart2": "Will Britannia continue to rule or be cast down from its lofty perch?",
+		"declaringWar": "Britain shall not bow to tyranny!",
+		"attacked": "The empire answers with cannon and courage.",
+		"defeated": "The sun... sets...",
+		"introduction": "I am George III, King of Great Britain and Ireland. May our dealings be civil—and brief.",
 
-		"neutralHello": " ",
-		"hateHello": " ",
+		"neutralHello": "The empire has no quarrel—yet.",
+		"hateHello": "Your presence is an insult to Britain.",
 
-		"tradeRequest": " ",
+		"tradeRequest": "Let us consider your proposition.",
 
-		"outerColor": [247,216,1],
-		"innerColor": [120,0,1],
+		"outerColor": [200, 16, 46],
+		"innerColor": [1, 33, 105],
 		"favoredReligion": "Christianity",
-		"uniqueName": "La Reconquista",
-		"uniques":["Gain [30] [Faith] <upon conquering a city> <in cities not following a [your] religion> <(modified by game progress up to [100]%)>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","[+1 Faith, +1 Gold] [in all cities] <on foreign continents>"]
-    
-		"cities":["Toledo","Leon","Valladolid","Burgos","Oviedo","Madrid","Santiago","Segovia","Avila","Bilbao","Salamanca","Santander","Soria","Badajoz",
-			"Tordesillas","Finisterre","Calatrava","Aguilar","Zamora","Cuenca","Corunna","Las Navas de Tolosa","Murcia","Cartagena","Merida","Toro","Cordoba","Seville"
-			,"Cadiz","Alicante","Ciudad Real","Gijon","Jaen","Plasencia","Camora","Penafiel","Caceres","Siguenza","Albacete","Almagaro"]
-    
-        },
-	{
-		"name": "Granada",
-		"adjective": ["Granadan"],
-		"cityStateType": "Religious",
+		"uniqueName": "Rule Britannia",
+		"uniques": ["+1 [Gold] from sea tiles","Naval units gain +1 movement and +10% [Combat Strength]","Colonial cities (on other continents) generate +25% [Production]"],
 
-		"declaringWar": "You dare strike the jewel of al-Andalus?",
-		"attacked": "The Nasrids shall not forget this!",
-		"defeated": "Granada... fades into legend...",
+		"cities": ["London", "Liverpool", "Manchester", "Bristol", "Glasgow", "Edinburgh", "Birmingham", "Portsmouth",
+			"Dublin", "Cork","Aberdeen", "Newcastle", "Leeds", "Sheffield", "Nottingham", "York", "Exeter", "Belfast", "Cardiff"]
+
+	},
+	{ 
+		"name": "Austrian Empire", 
+		"leaderName": "Francis II",
+		"adjective": ["Austrian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Emperor Francis II, last Holy Roman Emperor and ruler of Austria, your empire stands at the heart of Europe.",
+		"startIntroPart2": "Will you preserve the old order or give way to revolution?",
+		"declaringWar": "Austria rises in righteous arms!",
+		"attacked": "The Empire will not crumble quietly.",
+		"defeated": "The crown... shattered...",
+		"introduction": "I am Francis II, Emperor of Austria and defender of tradition. Speak, if you value peace.",
+
+		"neutralHello": "Austria listens but does not trust easily.",
+		"hateHello": "You threaten the stability of Europe.",
+
+		"tradeRequest": "Let us hear your offer.",
+
+		"outerColor": [186, 12, 47],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Imperial Reform",
+		"uniques": ["+15% [Production] when building [Wonders]","Allied [City-States] provide +25% more [Influence] per turn","Units start with the [Drill I] promotion"],
+
+		"cities": ["Vienna", "Prague", "Budapest", "Linz", "Graz", "Innsbruck", "Brno", "Krakow", "Lviv", "Salzburg",
+			"Trieste", "Cluj", "Sibiu", "Bratislava", "Zagreb", "Ljubljana", "Timisoara", "Debrecen", "Olomouc"]
+
+	},
+	{
+		"name": "Kingdom of Prussia", 
+		"leaderName": "Frederick William III", 
+		"adjective": ["Prussian"], 
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "King Frederick William III, ruler of Prussia and reformer of the army, your kingdom stands as Europe's rising sword.",
+		"startIntroPart2": "Can you transform defeat into destiny and lead Prusia to greatness?",
+		"declaringWar": "Prussia shall bring order through steel!",
+		"attacked": "Prussians do not yield!",
+		"defeated": "Our discipline... was not enough...",
+		"introduction": "I am Frederick William III of Prussia. Speak quickly, and with purpose.",
+
+		"neutralHello": "We are watching. Closely.",
+		"hateHello": "You dishonor Prussian order.",
+
+		"tradeRequest": "Efficiency demands agreement. Proceed.",
+
 		"outerColor": [0, 0, 0],
-		"innerColor": [133,168,127],
-		"uniques": ["Gain a free [Alhambra] [in capital] <after discovering [Chivalry]>"],
-		"cities": ["Granada"]
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Krümpersystem",
+		"uniques": ["All melee units train 25% faster","Units gain +10 XP when adjacent to a [General]","Barracks and Armories provide +1 [Science]"],
+
+		"cities": ["Berlin", "Königsberg", "Breslau", "Potsdam", "Magdeburg", "Stettin", "Danzig", "Cologne", "Hannover", "Frankfurt",
+			"Düsseldorf", "Leipzig", "Darmstadt", "Erfurt", "Kassel", "Aachen", "Brunswick", "Mainz", "Bonn"]
+		
 	}
 ]
