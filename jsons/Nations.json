@@ -21,8 +21,8 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 
-		"uniqueName": "Grande Armée",
-		"uniques": ["Conquered cities start with a [Courthouse] and provide +10 XP to trained units","Units gain +15% [Combat Strength] when adjacent to another friendly military unit","[Military Academies] grant +2 [Culture] and +1 [Production]"],
+		"uniqueName": "La Grande Armée",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]","[+15]% Strength <for [{Land}] units> <when adjacent to a [{Friendly} {Land}] units>","[+1] Movement <for [{Land}] units> <when adjacent to a [{Friendly} {Land}] units>"],
 
 		"cities": ["Paris", "Lyon", "Marseille", "Toulouse", "Bordeaux", "Strasbourg", "Lille", "Dijon", "Nantes", "Nice",
 			"Rouen", "Metz", "Reims", "Tours", "Orléans", "Grenoble", "Amiens", "Nancy", "Troyes", "Caen"]
