@@ -12,5 +12,21 @@
                 "obsoleteTech": "Replaceable Parts", 
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
+   },
+   {
+		"name": "Chevau-Léger",
+		"unitType": "Mounted",
+	        "replaces": "Lancer",
+	        "uniqueTo": "French Empire",
+		"movement": 6,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit","[+33]% Strength <when attacking> <when below [50] HP>"],
+		"promotions": ["Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
     }
 ]
