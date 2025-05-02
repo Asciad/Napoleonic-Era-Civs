@@ -9,7 +9,7 @@
 		"startIntroPart2": "Will you forge a legacy of glory or collapse under the weight of empire?",
 		"declaringWar": "France shall write history in cannon smoke!",
 		"attacked": "So, the dogs bark. Let them come!",
-		"defeated": "My star... it falls...",
+		"defeated": "There's nothing we can do.",
 		"introduction": "I am Napoleon Bonaparte, Emperor of the French. Let us see if you are worth my time.",
 
 		"neutralHello": "The Empire endures. For now, so do you.",
@@ -111,5 +111,117 @@
 		"cities": ["Berlin", "Königsberg", "Breslau", "Potsdam", "Magdeburg", "Stettin", "Danzig", "Cologne", "Hannover", "Frankfurt",
 			"Düsseldorf", "Leipzig", "Darmstadt", "Erfurt", "Kassel", "Aachen", "Brunswick", "Mainz", "Bonn"]
 		
-	}
+	},
+	{ 
+		"name": "Russian Empire", 
+		"leaderName": "Alexander I", 
+		"adjective": ["Russian"], 
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Tsar Alexander I, sovereign of the vast Russian Empire, your armies endure where others falter.",
+		"startIntroPart2": "Will you defend your realm or strike at the heart of Europe?",
+		"declaringWar": "Russia will not tolerate this!",
+		"attacked": "The snows will be your grave!",
+		"defeated": "Winter... was not enough...",
+		"introduction": "I am Alexander, Emperor of All Russia. Let us speak with civility, if not trust.",
+
+		"neutralHello": "Russia waits. Watchfully.", 
+		"hateHello": "We have no more patience for you.",
+
+		"tradeRequest": "Speak. Russia considers your offer.",
+
+		"outerColor": [0, 56, 168],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Orthodoxy",
+		"uniqueName": "General Winter",
+		"uniques": ["Units in friendly territory heal +25 HP per turn during [Winter] (cold biomes)","Snow and Tundra tiles yield +1 [Production] and +1 [Faith]","Mounted units gain +15% [Combat Strength] in open terrain"],
+
+		"cities": ["Moscow", "St. Petersburg", "Smolensk", "Kazan", "Kiev", "Sevastopol", "Novgorod", "Vladivostok", "Astrakhan", "Odessa",
+			"Rostov", "Tula", "Perm", "Tver", "Irkutsk", "Yaroslavl", "Ryazan", "Vologda", "Tambov"]
+
+	}, 
+	{ 
+		"name": "Ottoman Empire", 
+		"leaderName": "Selim III", 
+		"adjective": ["Ottoman"], 
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Sultan Selim III, reformer of the Ottoman Empire, your lands stretch across continents.",
+		"startIntroPart2": "Will you restore glory through modernization or fall to encroaching powers?",
+		"declaringWar": "The Sultan's justice shall be swift!",
+		"attacked": "You defy the Padishah? So be it!",
+		"defeated": "The sick man... has fallen...",
+		"introduction": "I am Selim, Sultan of the Ottomans. Let us not waste words.",
+
+		"neutralHello": "The Sublime Porte listens.",
+		"hateHello": "You dare show your face again?",
+		
+		"tradeRequest": "We consider your trade. Speak.",
+
+		"outerColor": [0, 102, 0],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Sunni Islam",
+		"uniqueName": "Nizam-i Cedid",
+		"uniques": ["Barracks provide +1 [Science] and +1 [Happiness]","All land units cost 10% less [Production] to train","Trade routes generate +1 [Gold] for every different religion in the destination city"],
+
+		"cities": ["Istanbul", "Edirne", "Bursa", "Ankara", "Izmir", "Aleppo", "Damascus", "Baghdad", "Skopje", "Belgrade",
+			"Jerusalem", "Tripoli", "Cairo", "Alexandria", "Tunis", "Salonika", "Kars", "Mosul", "Konya"]
+
+	},
+	{
+		"name": "Kingdom of Spain", 
+		"leaderName": "Charles IV", 
+		"adjective": ["Spanish"], 
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "King Charles IV, ruler of a once-mighty empire, Spain looks to you to reclaim its glory.",
+		"startIntroPart2": "Can you restore order amid chaos and resist the tide of revolution?",
+		"declaringWar": "Spain shall not bend to threats!",
+		"attacked": "We fight for God and Crown!",
+		"defeated": "I... was never meant to rule...",
+		"introduction": "I am Charles of Bourbon, King of Spain. Speak, if your cause is just.",
+
+		"neutralHello": "Spain listens—barely.",
+		"hateHello": "We have endured your insults long enough.",
+
+		"tradeRequest": "What does your empire bring to our court?",
+
+		"outerColor": [198, 12, 48],
+		"innerColor": [255, 204, 0],
+		"favoredReligion": "Catholicism",
+		"uniqueName": "Guerrilla Española",
+		"uniques": ["Enemy units suffer -10% [Combat Strength] in Spanish territory","Recon units gain +1 Sight and may enter enemy territory without open borders","Units receive +15% [Combat Strength] when adjacent to another friendly unit"],
+
+		"cities": ["Madrid", "Seville", "Barcelona", "Valencia", "Toledo", "Granada", "Cordoba", "Zaragoza", "Malaga", "Cadiz",
+			"Valladolid", "Burgos", "Oviedo", "Bilbao", "Salamanca", "Santiago", "Leon", "Pamplona"]
+
+	}, 
+	{ 
+		"name": "Kingdom of Naples", 
+		"leaderName": "Ferdinand IV", 
+		"adjective": ["Neapolitan"], 
+		"preferredVictoryType": "Culture",
+
+		"startIntroPart1": "King Ferdinand IV, ruler of Naples and Sicily, the sun-kissed bastions of the Mediterranean,",
+		"startIntroPart2": "Will you preserve your throne amid revolution and invasion, or lose it to the tide of change?",
+		"declaringWar": "You shall regret disturbing our tranquil shores!",
+		"attacked": "The Kingdom will not fall so easily!",
+		"defeated": "The crown... slips away... once more...",
+		"introduction": "I am Ferdinand, by the grace of God, King of Naples and Sicily. State your business, swiftly.",
+
+		"neutralHello": "We are listening, though we are cautious.",
+		"hateHello": "Treachery will not be tolerated in our lands.",
+
+		"tradeRequest": "Speak. Naples always considers trade with due respect.",
+
+		"outerColor": [234, 192, 134],
+		"innerColor": [60, 90, 153],
+		"favoredReligion": "Catholicism",
+		"uniqueName": "Restored Bourbon Rule",
+		"uniques": ["Cities on coastal tiles generate +2 [Gold] and +1 [Culture]; +1 [Production] if garrisoned","Receive a free [Great Admiral] upon researching Navigation if you have at least 3 coastal cities","Allied City-States grant +20% [Naval Unit] production and share their [Naval Unit] promotions"],
+
+		"cities": ["Naples", "Palermo", "Messina", "Catania", "Bari", "Salerno", "Reggio Calabria", "Taranto", "Lecce", "Avellino",
+			"Trapani", "Agrigento", "Cosenza", "Siracusa"]
+
+	}	
 ]
