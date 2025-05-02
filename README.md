@@ -5,7 +5,7 @@
 
 ## Civs:
 - French Empire
-- United Kingdom
+- Great Britain
 - Austrian Empire
 - Russian Empire
 - Kingdom of Prussia
