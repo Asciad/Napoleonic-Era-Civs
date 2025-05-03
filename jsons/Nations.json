@@ -50,11 +50,11 @@
 
 		"tradeRequest": "Let us consider your proposition.",
 
-		"outerColor": [200, 16, 46],
-		"innerColor": [1, 33, 105],
+		"outerColor": [113, 15, 19],
+		"innerColor": [162, 196, 255],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Rule Britannia",
-		"uniques": ["+1 [Gold] from sea tiles","Naval units gain +1 movement and +10% [Combat Strength]","Colonial cities (on other continents) generate +25% [Production]"],
+		"uniqueName": "Rule, Britannia!",
+		"uniques": ["[+2 Gold] from each Trade Route <on foreign continents>","[+1] Movement <for [Water] units>","[+10]% Strength <for [Water] units>"],
 
 		"cities":["London","Manchester","Liverpool","Birmingham","Bristol","Leeds","Sheffield","Edinburgh","Glasgow","Dublin","Newcastle","Plymouth",
 			"Portsmouth","Norwich","Nottingham","Hull","Leicester","Exeter","Coventry","York","Bath","Sunderland","Wolverhampton","Derby","Southampton",
