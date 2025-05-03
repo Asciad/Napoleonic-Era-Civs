@@ -28,5 +28,36 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
+   },
+   {
+		"name": "Redcoat",
+		"unitType": "Melee",
+	   	"replaces": "Rifleman",
+		"uniqueTo": "Great Britain",
+		"movement": 2,
+		"strength": 32,
+		"cost": 210,
+		"requiredTech": "Rifling",
+	        "uniques": ["[+10]% Strength <when fighting in [Foreign Land] tiles>","[1] Movement point cost to disembark"],
+                "obsoleteTech": "Replaceable Parts", 
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+   },
+   {
+	         "name": "Ship of the Line (Great Britain)",
+		"unitType": "Ranged Water",
+		"replaces": "Frigate",
+		"uniqueTo": "Great Britain",
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 35,
+		"cost": 185,
+		"requiredResource": "Iron",
+		"uniques": ["[+1] Sight"],
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
     }
 ]
