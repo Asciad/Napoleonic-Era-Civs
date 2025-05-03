@@ -7,7 +7,7 @@
 		"promotions": ["Great Generals I"],
 		"movement": 2,
 		"strength": 36,
-		"cost": 225,
+		"cost": 230,
 		"requiredTech": "Rifling",
                 "obsoleteTech": "Replaceable Parts", 
 		"upgradesTo": "Great War Infantry",
@@ -44,7 +44,7 @@
 		"attackSound": "shot"
    },
    {
-	         "name": "Ship of the Line (Great Britain)",
+	        "name": "Ship of the Line (Great Britain)",
 		"unitType": "Ranged Water",
 		"replaces": "Frigate",
 		"uniqueTo": "Great Britain",
@@ -59,5 +59,19 @@
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
 		"attackSound": "shipCannonVolley"
+    },
+    {
+	        "name": "Kaiserlich-königliche",
+		"unitType": "Melee",
+	   	"replaces": "Rifleman",
+		"uniqueTo": "Austrian Empire",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+	        "uniques": ["[+10]% Strength <when adjacent to a [Great General] unit","[+25]% XP gained from combat"],
+                "obsoleteTech": "Replaceable Parts", 
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
     }
 ]
