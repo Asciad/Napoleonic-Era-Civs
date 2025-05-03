@@ -18,7 +18,7 @@
 		"unitType": "Mounted",
 	        "replaces": "Lancer",
 	        "uniqueTo": "French Empire",
-		"movement": 6,
+		"movement": 5,
 		"strength": 25,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
@@ -87,5 +87,21 @@
                 "obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
-    }
+    },
+    {
+		"name": "Death's Head Hussar",
+		"unitType": "Mounted",
+	        "replaces": "Lancer",
+	        "uniqueTo": "Kingdom of Prussia",
+		"movement": 6,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit","Ignores Zone of Control","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"promotions": ["Shock I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+   }
 ]
