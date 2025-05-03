@@ -123,7 +123,8 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Krümpersystem",
-		"uniques": ["All melee units train 25% faster","Units gain +10 XP when adjacent to a [General]","Barracks and Armories provide +1 [Science]"],
+		"uniqueText": "+1 [Science] from Barracks and Armory, and all Military Land units gain the [[Krumpersystem] ability] which gives +10% Strength and +1 Movement for the first 3 turns",
+		"uniques": ["[+1 Science] from all [Barracks] buildings","[+1 Science] from all [Armory] buildings","[{Military} {Land}] units gain the [[Krümpersystem] ability] promotion]"],
 
 		"cities": ["Berlin","Königsberg","Breslau","Stettin","Magdeburg","Potsdam","Danzig","Erfurt","Cologne","Frankfurt an der Oder","Leipzig",
 			"Halle","Tilsit","Kassel","Glogau","Cottbus","Brandenburg","Marienburg","Allenstein","Elbing","Wittenberg","Naumburg","Merseburg",
