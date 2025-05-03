@@ -30,6 +30,7 @@
 			"Rotterdam","Nice","Trieste","Clermont-Ferrand","Tours","Dijon","Genoa","Mulhouse","Grenoble","Antwerp","Utrecht","Boulogne","Cherbourg",
 			"Dunkirk","Tourcoing","Troyes","Arras","Aix-en-Provence","The Hague","Bayonne","Poitiers","Arles","Le Mans","Calais","Luxembourg",
 			"Laibach","Erfurt","Liège","Bruges","Cattaro","Zara","Ragusa","Segna","Lunéville","Ajaccio"],
+		"spyNames": ["Fouché","Savary","Talleyrand","Caulaincourt","Junot","Murat","Bertrand","Gourgaud","Duroc","Davout"],
 
 	}, 
 	{ 
@@ -58,8 +59,8 @@
 
 		"cities":["London","Manchester","Liverpool","Birmingham","Bristol","Leeds","Sheffield","Edinburgh","Glasgow","Dublin","Newcastle","Plymouth",
 			"Portsmouth","Norwich","Nottingham","Hull","Leicester","Exeter","Coventry","York","Bath","Sunderland","Wolverhampton","Derby","Southampton",
-			"Bradford","Brighton","Preston","Chester","Canterbury","Oxford"]
-
+			"Bradford","Brighton","Preston","Chester","Canterbury","Oxford"],
+		"spyNames": ["Walsingham","Dundas","Canning","Peel","Castlereagh","Elgin","Wellington","Blucher","Grey","Hamilton"],
 	},
 	{ 
 		"name": "Austrian Empire", 
@@ -97,6 +98,7 @@
 		"cities": ["Vienna","Prague","Budapest","Graz","Brno","Lviv","Trieste","Innsbruck","Salzburg","Klagenfurt","Ljubljana","Zagreb","Debrecen",
 			"Sibiu","Temesvár","Pressburg","Olomouc","Krems","Linz","Sopron","Maribor","Košice","České Budějovice","Timișoara","Sarajevo","Mostar",
 			"Novi Sad","Subotica","Fiume","Esztergom"],
+		"spyNames": ["Metternich","Sedlnitzky","Stadion","Thugut","Habsburg","Schwarzenberg","Klemens","Esterházy","Breuner","Hager"]
 		
 	},
 	{
@@ -126,6 +128,7 @@
 		"cities": ["Berlin","Königsberg","Breslau","Stettin","Magdeburg","Potsdam","Danzig","Erfurt","Cologne","Frankfurt an der Oder","Leipzig",
 			"Halle","Tilsit","Kassel","Glogau","Cottbus","Brandenburg","Marienburg","Allenstein","Elbing","Wittenberg","Naumburg","Merseburg",
 			"Neisse","Liegnitz","Paderborn","Hamm","Goslar","Nordhausen","Prenzlau"],
+		"spyNames": ["Scharnhorst","Blücher","Bismarck","Gneisenau","Schlieffen","Zieten","Von Moltke","Hardenberg","Wilhelm II","Tirpitz"]
 		
 	},
 	{ 
@@ -155,6 +158,7 @@
 		"cities": ["Moscow","St. Petersburg","Kazan","Kiev","Odessa","Riga","Smolensk","Tula","Tver","Minsk","Brest","Kharkov","Nizhny Novgorod",
 			"Voronezh","Astrakhan","Yaroslavl","Arkhangelsk","Tambov","Pskov","Novgorod","Poltava","Oryol","Ryazan","Kursk","Bryansk","Kaluga",
 			"Saratov","Tobolsk","Tomsk","Kronstadt"],
+		"spyNames": ["Alexander I","Kutusov","Barclay de Tolly","Karamzin","Rennenkampf","Bagration","Kornilov","Suvorov","Pahlen","Rumyantsev"]
 		
 	}, 
 	{ 
@@ -184,6 +188,7 @@
 		"cities": ["Constantinople","Bursa","Cairo","Aleppo","Edirne","Mecca","Kudüs","Medina","Salonica","Trabzon","Kayseri","Erzurum","Amasya",
 			"Karaman","Iznik","Rosetta","Alexandria","Damascus","Athens","Belgrade","Izmit","Tripoli","Algiers","Sofia","Gallipoli","Ankara",
 			"Varna","Sarajevo","Jaffa","Nis","Pristine","Ioannina","Sinop","Lezhë","Podgoric"],
+		"spyNames": ["Süleyman","Topal Pasha","Mehmed IV","İbrahim Pasha","Süleyman Aga","Piri Reis","Köprülü Mehmed","Damat Ali Pasha","Bayezid","Kara Mustafa Pasha"]
 		
 	},
 	{
@@ -213,6 +218,7 @@
 		"cities": ["Madrid","Barcelona","Seville","Valencia","Zaragoza","Granada","Toledo","Cádiz","Málaga","Bilbao","Salamanca","Valladolid","Burgos",
 			"Santiago de Compostela","Pamplona","Santander","Murcia","Alicante","La Coruña","León","Almería","Logroño","Oviedo","Cuenca","Huesca",
 			"Jaén","Palma","Badajoz","Tarragona","Gijón","Ciudad Real","Guadalajara","Cáceres","Lugo","Segovia","Teruel","Vigo","Elche","Jerez"],
+		"spyNames": ["Téllez-Girón","Alba","de Borbón","Fadrique de Toledo","Vasco Núñez de Balboa","Carlos V","Enrique de Guzmán","Juan de Austria","Ponce de León","Cervantes"]
 		
 	}
 ]
