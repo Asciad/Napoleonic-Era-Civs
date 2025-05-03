@@ -4,7 +4,7 @@
 		"replaces": "Public School",
 		"uniqueTo": "French Empire",
 		"science": 3,
-		"Culture": 1,
+		"culture": 1,
 		"specialistSlots": {"Scientist": 1},
 		"greatPersonPoints": {"Great General": 1},
 		"requiredBuilding": "University",
@@ -12,5 +12,16 @@
 		"hurryCostModifier": 0,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Scientific Theory"
+	},
+	{
+		"name": "Royal Navy Dockyard",
+		"replaces": "Harbor",
+		"uniqueTo": "Great Britain",
+		"cost": 120,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Production] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
 	}
 ]
