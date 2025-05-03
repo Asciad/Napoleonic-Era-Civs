@@ -11,6 +11,7 @@
 - Kingdom of Prussia
 - Ottoman Empire
 - Kingdom of Spain
+  
 - Kingdom of Portugal
 - Kingdom of Denmark-Norway
 - Kingdom of Sweden
