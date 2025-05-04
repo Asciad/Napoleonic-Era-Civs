@@ -152,11 +152,11 @@
 
 		"outerColor": [0, 56, 168],
 		"innerColor": [255, 255, 255],
-		"favoredReligion": "Orthodoxy",
-		"uniqueName": "General Winter",
-		"uniques": ["Units in friendly territory heal +25 HP per turn during [Winter] (cold biomes)","Snow and Tundra tiles yield +1 [Production] and +1 [Faith]","Mounted units gain +15% [Combat Strength] in open terrain"],
-
-		"cities": ["Moscow","St. Petersburg","Kazan","Kiev","Odessa","Riga","Smolensk","Tula","Tver","Minsk","Brest","Kharkov","Nizhny Novgorod",
+		"favoredReligion": "Christianity",
+		"uniqueName": " ",
+		"uniques": [" "],
+		
+		"cities": ["St. Petersburg","Moscow","Kazan","Kiev","Odessa","Riga","Smolensk","Tula","Tver","Minsk","Brest","Kharkov","Nizhny Novgorod",
 			"Voronezh","Astrakhan","Yaroslavl","Arkhangelsk","Tambov","Pskov","Novgorod","Poltava","Oryol","Ryazan","Kursk","Bryansk","Kaluga",
 			"Saratov","Tobolsk","Tomsk","Kronstadt"],
 		"spyNames": ["Alexander I","Kutusov","Barclay de Tolly","Karamzin","Rennenkampf","Bagration","Kornilov","Suvorov","Pahlen","Rumyantsev"]
@@ -182,10 +182,10 @@
 
 		"outerColor": [0, 102, 0],
 		"innerColor": [255, 255, 255],
-		"favoredReligion": "Sunni Islam",
-		"uniqueName": "Nizam-i Cedid",
-		"uniques": ["Barracks provide +1 [Science] and +1 [Happiness]","All land units cost 10% less [Production] to train","Trade routes generate +1 [Gold] for every different religion in the destination city"],
-
+		"favoredReligion": "Islam",
+		"uniqueName": " ",
+		"uniques": [" "],
+		
 		"cities": ["Constantinople","Bursa","Cairo","Aleppo","Edirne","Mecca","Kudüs","Medina","Salonica","Trabzon","Kayseri","Erzurum","Amasya",
 			"Karaman","Iznik","Rosetta","Alexandria","Damascus","Athens","Belgrade","Izmit","Tripoli","Algiers","Sofia","Gallipoli","Ankara",
 			"Varna","Sarajevo","Jaffa","Nis","Pristine","Ioannina","Sinop","Lezhë","Podgoric"],
@@ -212,10 +212,10 @@
 
 		"outerColor": [198, 12, 48],
 		"innerColor": [255, 204, 0],
-		"favoredReligion": "Catholicism",
-		"uniqueName": "Guerrilla Española",
-		"uniques": ["Enemy units suffer -10% [Combat Strength] in Spanish territory","Recon units gain +1 Sight and may enter enemy territory without open borders","Units receive +15% [Combat Strength] when adjacent to another friendly unit"],
-
+		"favoredReligion": "Christianity",
+		"uniqueName": " ",
+		"uniques": [" "],
+		
 		"cities": ["Madrid","Barcelona","Seville","Valencia","Zaragoza","Granada","Toledo","Cádiz","Málaga","Bilbao","Salamanca","Valladolid","Burgos",
 			"Santiago de Compostela","Pamplona","Santander","Murcia","Alicante","La Coruña","León","Almería","Logroño","Oviedo","Cuenca","Huesca",
 			"Jaén","Palma","Badajoz","Tarragona","Gijón","Ciudad Real","Guadalajara","Cáceres","Lugo","Segovia","Teruel","Vigo","Elche","Jerez"],
