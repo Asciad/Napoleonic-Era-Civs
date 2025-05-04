@@ -1,5 +1,5 @@
 # The Napoleonic Era Civs
-  #### This mod adds set of civilizations during the onset of the French Revolution and the Napoleonic Wars (1789-1815).
+  #### This mod adds set of civilizations during the onset of the French Revolution (1789–1799) and the Napoleonic Wars (1803–1815).
 -----
 
 
@@ -7,11 +7,10 @@
 - French Empire ☑️
 - Great Britain ☑️
 - Austrian Empire ☑️
-- Russian Empire
 - Kingdom of Prussia ☑️
+- Russian Empire
 - Ottoman Empire
 - Kingdom of Spain
-  
 - Kingdom of Portugal
 - Kingdom of Denmark-Norway
 - Kingdom of Sweden
