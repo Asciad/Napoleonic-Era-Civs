@@ -6,9 +6,9 @@
 ## Civs:
 - French Empire ☑️
 - Great Britain ☑️
-- Austrian Empire
+- Austrian Empire ☑️
 - Russian Empire
-- Kingdom of Prussia
+- Kingdom of Prussia ☑️
 - Ottoman Empire
 - Kingdom of Spain
   
