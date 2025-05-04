@@ -1,10 +1,10 @@
 [
      {
-     	  "name": "[Chevau-Léger] ability",
-           "uniques": ["[+33]% Strength <vs [Wounded] units>","[+1] Movement <upon defeating a [Military] unit> <for [1] turns>"],
+          "name": "[Chevau-Léger] ability",
+          "uniques": ["[+33]% Strength <vs [Wounded] units>","[+1] Movement <upon defeating a [Military] unit> <for [1] turns>"],
      },
      {
-           "name": "Totenkopf Insignia",
-           "uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+          "name": "Totenkopf Insignia",
+          "uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
      }
 ]
