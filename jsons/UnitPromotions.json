@@ -1,6 +1,6 @@
 [
-   	 {
-     		   "name": "[Chevau-Léger] ability",
+     {
+     		  "name": "[Chevau-Léger] ability",
            "uniques": ["[+33]% Strength <vs [Wounded] units>","[+1] Movement <upon defeating a [Military] unit> <for [1] turns>"],
      },
      {
