@@ -1,3 +1,4 @@
+
 [
    {
 		"name": "Garde Impériale",
@@ -87,7 +88,7 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+1] Sight"],
 		"promotions": ["[Austrian Hussar] ability"],
 		"upgradesTo": "Landship",
-		"obsoleteTech": "Combustiom",
+		"obsoleteTech": "Combustion",
 		"attackSound": "horse"
     }
     {
@@ -99,7 +100,7 @@
 		"strength": 28,
 		"cost": 200,
 		"requiredTech": "Rifling",
-	        "uniques": ["[+1] Movement <in [Friendly Land] tiles>","[+33]% gained XP from combat","[+15]% Strength when stacked with [Great General]"],
+	        "uniques": ["[+1] Movement <in [Friendly Land] tiles>","[+33]% XP gained from combat","[+15]% Strength when stacked with [Great General]"],
                 "obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
@@ -117,7 +118,7 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+1] Sight"],
 		"promotions": ["Totenkopf Insignia"],
 		"upgradesTo": "Landship",
-		"obsoleteTech": "Combustiom",
+		"obsoleteTech": "Combustion",
 		"attackSound": "horse"
    }
 ]
