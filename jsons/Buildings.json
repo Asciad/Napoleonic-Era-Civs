@@ -23,5 +23,16 @@
 		"uniques": ["[+2 Production] from [Water resource] tiles [in this city]",
 			"Connects trade routes over water","Must be next to [Coast]"],
 		"requiredTech": "Compass"
+	},
+	{
+
+		"name": "Hofkriegsrat",
+		"replaces": "Military Academy",
+		"uniqueTo": "Austrian Empire",
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured","New spies start with [1] level(s) <in this city>"],
+		"requiredTech": "Military Science"
 	}
 ]
