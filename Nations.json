@@ -1,0 +1,225 @@
+[
+	{
+		"name": "French Empire", 
+		"leaderName": "Napoleon I", 
+		"adjective": ["French"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Long life and triumph to you, First Consul and Emperor of France, Napoleon I, ruler of the French people. France lies at the heart of Europe. Long has Paris been the world center of culture, arts and letters. Although surrounded by competitors - and often enemies - France has endured as a great nation. Its armies have marched triumphantly into battle from one end of the world to the other, its soldiers and generals among the best in history.",
+		"startIntroPart2": "Napoleon Bonaparte, France yearns for you to rebuild your empire, to lead her once more to glory and greatness, to make France once more the epicenter of culture and refinement. Emperor, will you ride once more against your foes? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "I have made all the calculations; fate will do the rest.",
+		"attacked": "The bullet that will kill me is not yet cast.",
+		"defeated": "There's nothing we can do.",
+		"introduction": "I am Napoleon, and I am here to decide the fate of the world.",
+
+		"neutralHello": "The Empire endures. For now, so do you.",
+		"hateHello": "You have outlived your usefulness.",
+
+		"tradeRequest": "France considers your offer. Speak.",
+
+		"outerColor": [66, 100, 174],
+		"innerColor": [242, 244, 183],
+		"favoredReligion": "Christianity",
+
+		"uniqueName": "La Grande Armée",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]","[+15]% Strength <for [{Land}] units> <when adjacent to a [{Friendly} {Land}] unit>","[+1] Movement <for [{Land}] units> <when adjacent to a [{Friendly} {Land}] unit>"],
+
+		"cities": ["Paris","Marseille","Lyon","Bordeaux","Rouen","Nantes","Toulouse","Rome","Amsterdam","Lille","Toulon","Barcelona","Brussels",
+			"Strasbourg","Geneva","Brest","Metz","Turin","Florence","Saint-Étienne","Nîmes","Amiens","Orléans","Cologne","Hamburg","Angers",
+			"Caen","Montpellier","Nancy","Münster","Bremen","Reims","Le Havre","Besançon","Limoges","Rennes","Avignon","Lübeck","Versailles",
+			"Rotterdam","Nice","Trieste","Clermont-Ferrand","Tours","Dijon","Genoa","Mulhouse","Grenoble","Antwerp","Utrecht","Boulogne","Cherbourg",
+			"Dunkirk","Tourcoing","Troyes","Arras","Aix-en-Provence","The Hague","Bayonne","Poitiers","Arles","Le Mans","Calais","Luxembourg",
+			"Laibach","Erfurt","Liège","Bruges","Cattaro","Zara","Ragusa","Segna","Lunéville","Ajaccio"],
+		"spyNames": ["Fouché","Savary","Talleyrand","Caulaincourt","Junot","Murat","Bertrand","Gourgaud","Duroc","Davout"],
+
+	}, 
+	{ 
+		"name": "Great Britain", 
+		"leaderName": "George III", 
+		"adjective": ["British"], 
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "King George III, sovereign of the British Empire and ruler of the seas, your fleets dominate the waves.",
+		"startIntroPart2": "Will Britannia continue to rule or be cast down from its lofty perch?",
+		"declaringWar": "Britain shall not bow to tyranny!",
+		"attacked": "The empire answers with cannon and courage.",
+		"defeated": "The sun... sets...",
+		"introduction": "I am George III, King of Great Britain and Ireland. May our dealings be civil—and brief.",
+
+		"neutralHello": "The empire has no quarrel—yet.",
+		"hateHello": "Your presence is an insult to Britain.",
+
+		"tradeRequest": "Let us consider your proposition.",
+
+		"outerColor": [113, 15, 19],
+		"innerColor": [162, 196, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Rule, Britannia!",
+		"uniques": ["[+2 Gold] from each Trade Route <on foreign continents>","[+1] Movement <for [Water] units>","[+10]% Strength <for [Water] units>"],
+
+		"cities":["London","Manchester","Liverpool","Birmingham","Bristol","Leeds","Sheffield","Edinburgh","Glasgow","Dublin","Newcastle","Plymouth",
+			"Portsmouth","Norwich","Nottingham","Hull","Leicester","Exeter","Coventry","York","Bath","Sunderland","Wolverhampton","Derby","Southampton",
+			"Bradford","Brighton","Preston","Chester","Canterbury","Oxford"],
+		"spyNames": ["Walsingham","Dundas","Canning","Peel","Castlereagh","Elgin","Wellington","Blucher","Grey","Hamilton"],
+	},
+	{ 
+		"name": "Austrian Empire", 
+		"leaderName": "Francis II",
+		"adjective": ["Austrian"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Emperor Francis II, last Holy Roman Emperor and ruler of Austria, your empire stands at the heart of Europe.",
+		"startIntroPart2": "Will you preserve the old order or give way to revolution?",
+		"declaringWar": "Austria rises in righteous arms!",
+		"attacked": "The Empire will not crumble quietly.",
+		"defeated": "The crown... shattered...",
+		"introduction": "I am Francis II, Emperor of Austria and defender of tradition. Speak, if you value peace.",
+
+		"neutralHello": "Austria listens but does not trust easily.",
+		"hateHello": "You threaten the stability of Europe.",
+
+		"tradeRequest": "Let us hear your offer.",
+
+		"outerColor": [255,204,0],
+		"innerColor": [0,0,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "European Restoration",
+		"uniqueText": "Completing a Social Policy Branch grants +10% Great People generation and a free Spy, and Enemy Spies are 25% less effective in cities you own.",
+		"uniques": ["[+10]% Great Person generation [in all cities] <after adopting [Tradition]>","[+10]% Great Person generation [in all cities] <after adopting [Liberty]>",
+			"[+10]% Great Person generation [in all cities] <after adopting [Honor]>","[+10]% Great Person generation [in all cities] <after adopting [Piety]>",
+			"[+10]% Great Person generation [in all cities] <after adopting [Commerce]>","[+10]% Great Person generation [in all cities] <after adopting [Rationalism]>",
+			"[+10]% Great Person generation [in all cities] <after adopting [Order]>","[+10]% Great Person generation [in all cities] <after adopting [Freedom]>",
+			"[+10]% Great Person generation [in all cities] <after adopting [Autocracy]>","[+10]% Great Person generation [in all cities] <after adopting [Patronage]>",
+			"Free [Spy] appears <after adopting [Tradition]>","Free [Spy] appears <after adopting [Liberty]>","Free [Spy] appears <after adopting [Honor]>",
+			"Free [Spy] appears <after adopting [Piety]>","Free [Spy] appears <after adopting [Commerce]>","Free [Spy] appears <after adopting [Patronage]>",
+			"Free [Spy] appears <after adopting [Order]>","Free [Spy] appears <after adopting [Freedom]>","Free [Spy] appears <after adopting [Autocracy]>",
+			"[-25]% enemy spy effectiveness [in all cities]"],
+
+		"cities": ["Vienna","Prague","Budapest","Graz","Brno","Lviv","Trieste","Innsbruck","Salzburg","Klagenfurt","Ljubljana","Zagreb","Debrecen",
+			"Sibiu","Temesvár","Pressburg","Olomouc","Krems","Linz","Sopron","Maribor","Košice","České Budějovice","Timișoara","Sarajevo","Mostar",
+			"Novi Sad","Subotica","Fiume","Esztergom"],
+		"spyNames": ["Metternich","Sedlnitzky","Stadion","Thugut","Habsburg","Schwarzenberg","Klemens","Esterházy","Breuner","Hager"]
+		
+	},
+	{
+		"name": "Kingdom of Prussia", 
+		"leaderName": "Frederick William III", 
+		"adjective": ["Prussian"], 
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "King Frederick William III, ruler of Prussia and reformer of the army, your kingdom stands as Europe's rising sword.",
+		"startIntroPart2": "Can you transform defeat into destiny and lead Prusia to greatness?",
+		"declaringWar": "Prussia shall bring order through steel!",
+		"attacked": "Prussians do not yield!",
+		"defeated": "Our discipline... was not enough...",
+		"introduction": "I am Frederick William III of Prussia. Speak quickly, and with purpose.",
+
+		"neutralHello": "We are watching. Closely.",
+		"hateHello": "You dishonor Prussian order.",
+
+		"tradeRequest": "Efficiency demands agreement. Proceed.",
+
+		"outerColor": [210,205,197],
+		"innerColor": [33,30,28],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Krümpersystem",
+		"uniqueText": "+1 [Science] from Barracks and Armory, and all Military Land units gain the [[Krumpersystem] ability] which gives +10% Strength and +1 Movement for the first 3 turns",
+		"uniques": ["[+1 Science] from all [Barracks] buildings","[+1 Science] from all [Armory] buildings","[{Military} {Land}] units gain the [[Krümpersystem] ability] promotion"],
+
+		"cities": ["Berlin","Königsberg","Breslau","Stettin","Magdeburg","Potsdam","Danzig","Erfurt","Cologne","Frankfurt an der Oder","Leipzig",
+			"Halle","Tilsit","Kassel","Glogau","Cottbus","Brandenburg","Marienburg","Allenstein","Elbing","Wittenberg","Naumburg","Merseburg",
+			"Neisse","Liegnitz","Paderborn","Hamm","Goslar","Nordhausen","Prenzlau"],
+		"spyNames": ["Scharnhorst","Blücher","Bismarck","Gneisenau","Schlieffen","Zieten","Von Moltke","Hardenberg","Wilhelm II","Tirpitz"]
+		
+	},
+	{ 
+		"name": "Russian Empire", 
+		"leaderName": "Alexander I", 
+		"adjective": ["Russian"], 
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Tsar Alexander I, sovereign of the vast Russian Empire, your armies endure where others falter.",
+		"startIntroPart2": "Will you defend your realm or strike at the heart of Europe?",
+		"declaringWar": "Russia will not tolerate this!",
+		"attacked": "The snows will be your grave!",
+		"defeated": "Winter... was not enough...",
+		"introduction": "I am Alexander, Emperor of All Russia. Let us speak with civility, if not trust.",
+
+		"neutralHello": "Russia waits. Watchfully.", 
+		"hateHello": "We have no more patience for you.",
+
+		"tradeRequest": "Speak. Russia considers your offer.",
+
+		"outerColor": [0, 56, 168],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": " ",
+		"uniques": [" "],
+		
+		"cities": ["St. Petersburg","Moscow","Kazan","Kiev","Odessa","Riga","Smolensk","Tula","Tver","Minsk","Brest","Kharkov","Nizhny Novgorod",
+			"Voronezh","Astrakhan","Yaroslavl","Arkhangelsk","Tambov","Pskov","Novgorod","Poltava","Oryol","Ryazan","Kursk","Bryansk","Kaluga",
+			"Saratov","Tobolsk","Tomsk","Kronstadt"],
+		"spyNames": ["Alexander I","Kutusov","Barclay de Tolly","Karamzin","Rennenkampf","Bagration","Kornilov","Suvorov","Pahlen","Rumyantsev"]
+		
+	}, 
+	{ 
+		"name": "Ottoman Empire", 
+		"leaderName": "Selim III", 
+		"adjective": ["Ottoman"], 
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Sultan Selim III, reformer of the Ottoman Empire, your lands stretch across continents.",
+		"startIntroPart2": "Will you restore glory through modernization or fall to encroaching powers?",
+		"declaringWar": "The Sultan's justice shall be swift!",
+		"attacked": "You defy the Padishah? So be it!",
+		"defeated": "The sick man... has fallen...",
+		"introduction": "I am Selim, Sultan of the Ottomans. Let us not waste words.",
+
+		"neutralHello": "The Sublime Porte listens.",
+		"hateHello": "You dare show your face again?",
+		
+		"tradeRequest": "We consider your trade. Speak.",
+
+		"outerColor": [0, 102, 0],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Islam",
+		"uniqueName": " ",
+		"uniques": [" "],
+		
+		"cities": ["Constantinople","Bursa","Cairo","Aleppo","Edirne","Mecca","Kudüs","Medina","Salonica","Trabzon","Kayseri","Erzurum","Amasya",
+			"Karaman","Iznik","Rosetta","Alexandria","Damascus","Athens","Belgrade","Izmit","Tripoli","Algiers","Sofia","Gallipoli","Ankara",
+			"Varna","Sarajevo","Jaffa","Nis","Pristine","Ioannina","Sinop","Lezhë","Podgoric"],
+		"spyNames": ["Süleyman","Topal Pasha","Mehmed IV","İbrahim Pasha","Süleyman Aga","Piri Reis","Köprülü Mehmed","Damat Ali Pasha","Bayezid","Kara Mustafa Pasha"]
+		
+	},
+	{
+		"name": "Kingdom of Spain", 
+		"leaderName": "Charles IV", 
+		"adjective": ["Spanish"], 
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "King Charles IV, ruler of a once-mighty empire, Spain looks to you to reclaim its glory.",
+		"startIntroPart2": "Can you restore order amid chaos and resist the tide of revolution?",
+		"declaringWar": "Spain shall not bend to threats!",
+		"attacked": "We fight for God and Crown!",
+		"defeated": "I... was never meant to rule...",
+		"introduction": "I am Charles of Bourbon, King of Spain. Speak, if your cause is just.",
+
+		"neutralHello": "Spain listens—barely.",
+		"hateHello": "We have endured your insults long enough.",
+
+		"tradeRequest": "What does your empire bring to our court?",
+
+		"outerColor": [198, 12, 48],
+		"innerColor": [255, 204, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": " ",
+		"uniques": [" "],
+		
+		"cities": ["Madrid","Barcelona","Seville","Valencia","Zaragoza","Granada","Toledo","Cádiz","Málaga","Bilbao","Salamanca","Valladolid","Burgos",
+			"Santiago de Compostela","Pamplona","Santander","Murcia","Alicante","La Coruña","León","Almería","Logroño","Oviedo","Cuenca","Huesca",
+			"Jaén","Palma","Badajoz","Tarragona","Gijón","Ciudad Real","Guadalajara","Cáceres","Lugo","Segovia","Teruel","Vigo","Elche","Jerez"],
+		"spyNames": ["Téllez-Girón","Alba","de Borbón","Fadrique de Toledo","Vasco Núñez de Balboa","Carlos V","Enrique de Guzmán","Juan de Austria","Ponce de León","Cervantes"]
+		
+	}
+]
