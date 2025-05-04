@@ -69,11 +69,27 @@
 		"strength": 34,
 		"cost": 225,
 		"requiredTech": "Rifling",
-	        "uniques": ["[+33]% Strength <when defending>"],
+	        "uniques": ["[+25]% Strength <when defending>","[+10]% XP gained from combat"],
                 "obsoleteTech": "Replaceable Parts", 
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
     },
+    {
+		"name": "Austrian Hussar",
+		"unitType": "Mounted",
+	        "replaces": "Cavalry",
+	        "uniqueTo": "Austrian Empire",
+		"movement": 5,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+1] Sight"],
+		"promotions": ["[Austrian Hussar] ability"],
+		"upgradesTo": "Landship",
+		"obsoleteTech": "Combustiom",
+		"attackSound": "horse"
+    }
     {
     	        "name": "Prussian Landwehr",
 		"unitType": "Melee",
