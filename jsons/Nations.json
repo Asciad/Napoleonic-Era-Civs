@@ -4,6 +4,7 @@
 		"name": "French Empire", 
 		"leaderName": "Napoleon I", 
 		"adjective": ["French"],
+		"startBias": ["Wine"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Long life and triumph to you, First Consul and Emperor of France, Napoleon I, ruler of the French people. France lies at the heart of Europe. Long has Paris been the world center of culture, arts and letters. Although surrounded by competitors - and often enemies - France has endured as a great nation. Its armies have marched triumphantly into battle from one end of the world to the other, its soldiers and generals among the best in history.",
@@ -38,6 +39,7 @@
 		"name": "Great Britain", 
 		"leaderName": "George III", 
 		"adjective": ["British"], 
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "King George III, sovereign of the British Empire and ruler of the seas, your fleets dominate the waves.",
@@ -67,6 +69,7 @@
 		"name": "Austrian Empire", 
 		"leaderName": "Francis II",
 		"adjective": ["Austrian"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Emperor Francis II, last Holy Roman Emperor and ruler of Austria, your empire stands at the heart of Europe.",
@@ -128,7 +131,8 @@
 	{ 
 		"name": "Russian Empire", 
 		"leaderName": "Alexander I", 
-		"adjective": ["Russian"], 
+		"adjective": ["Russian"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Tsar Alexander I, sovereign of the vast Russian Empire, your armies endure where others falter.",
