@@ -143,8 +143,8 @@
 
 		"tradeRequest": "Speak. Russia considers your offer.",
 
-		"outerColor": [0, 56, 168],
-		"innerColor": [255, 255, 255],
+		"outerColor": [249,249,249],
+		"innerColor": [0,79,206],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Alliance",
 		"uniques": ["[+33]% Natural religion spread [in all cities in which the majority religion is a major religion] <upon declaring friendship> <hidden from users>","[+33]% XP gained from combat <for [all] units> <when fighting in [Friendly Land] tiles> <upon declaring friendship> <hidden from users>",
