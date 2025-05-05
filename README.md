@@ -8,7 +8,9 @@
 - Great Britain ☑️
 - Austrian Empire ☑️
 - Kingdom of Prussia ☑️
-- Russian Empire
+- Russian Empire ☑️
+
+  
 - Ottoman Empire
 - Kingdom of Spain
 - Kingdom of Portugal
