@@ -23,7 +23,7 @@
 		"favoredReligion": "Christianity",
 
 		"uniqueName": "La Grande Armée",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]","[+15]% Strength <for [Land] units> <when adjacent to a [{Friendly} {Land}] unit>","[+1] Movement <for [Land] units> <when adjacent to a [{Friendly} {Land}] unit>"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]","[+10]% Strength <for [Land] units> <when adjacent to a [{Friendly} {Land}] unit>","[+1] Movement <for [Land] units> <when adjacent to a [{Friendly} {Land}] unit>"],
 
 		"cities": ["Paris","Marseille","Lyon","Bordeaux","Rouen","Nantes","Toulouse","Rome","Amsterdam","Lille","Toulon","Barcelona","Brussels",
 			"Strasbourg","Geneva","Brest","Metz","Turin","Florence","Saint-Étienne","Nîmes","Amiens","Orléans","Cologne","Hamburg","Angers",
@@ -147,9 +147,8 @@
 		"innerColor": [0,79,206],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Alliance",
-		"uniques": ["[+33]% Natural religion spread [in all cities in which the majority religion is a major religion] <upon declaring friendship> <hidden from users>","[+33]% XP gained from combat <for [all] units> <when fighting in [Friendly Land] tiles> <upon declaring friendship> <hidden from users>",
-			"Unit will heal every turn, even if it performs an action <for [all units> <when fighting in [Friendly Land] tiles> <upon declaring friendship> <hidden from users>",
-			"Comment [Upon declaring friendship, your natural religion spreads +33% faster in cities where the majority religion is a major religion","Comment [All units gain +33% more XP from combat and heal every turn in Friendly Land territory]"],
+		"uniques": ["[+33]% Natural religion spread [in all cities in which the majority religion is a major religion] <upon declaring friendship> <hidden from users>","[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles> <upon declaring friendship> <hidden from users>","[Great General] is earned [+20]% faster <upon declaring friendship> <hidden from users>",
+		    "Comment [Upon declaring friendship, your religion naturally spreads +33% faster in cities where the majority religion is a major religion, Land units gain +10% Strength in Friendly Land tiles, and Great Generals are earned +20% faster]"],
 		
 		"cities": ["St.Petersburg","Moscow","Kiev","Novgorod","Kharkov","Kazan","Simferopol","Smolensk","Kaluga","Minsk","Vitebsk","Borodino","Maloyaroslavets",
 			"Borisov","Fili","Vilno","Riga","Revel","Helsingfors","Belostok","Warsaw","Yekaterinoslav","Tula","NizhniyNovgorod","Rostov-on-Don","Stavropol",
