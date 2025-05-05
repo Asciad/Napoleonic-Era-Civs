@@ -14,7 +14,7 @@
 		"requiredTech": "Scientific Theory"
 	},
 	{
-		"name": "Naval Dockyard",
+		"name": "Royal Naval Dockyard",
 		"replaces": "Seaport",
 		"uniqueTo": "Great Britain",
 		"hurryCostModifier": 25,
