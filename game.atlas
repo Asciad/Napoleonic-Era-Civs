@@ -1,0 +1,167 @@
+
+game.png
+size: 1024, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Hofkriegsrat
+  rotate: false
+  xy: 480, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lycée Impérial
+  rotate: false
+  xy: 696, 372
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Royal Navy Dockyard
+  rotate: false
+  xy: 804, 372
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Winter Palace
+  rotate: false
+  xy: 804, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Austrian Empire
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/French Empire
+  rotate: false
+  xy: 4, 112
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+NationIcons/Great Britain
+  rotate: false
+  xy: 372, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kingdom of Prussia
+  rotate: false
+  xy: 480, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Russian Empire
+  rotate: false
+  xy: 696, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Austrian Hussar
+  rotate: false
+  xy: 372, 372
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/[Austrian Hussar] ability
+  rotate: false
+  xy: 372, 372
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Chevau-Léger
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Death's Head Hussar
+  rotate: false
+  xy: 372, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Don Cossack
+  rotate: false
+  xy: 480, 372
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/[Don Cossack] ability
+  rotate: false
+  xy: 480, 372
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Garde Impériale
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kaiserlich-königliche
+  rotate: false
+  xy: 588, 372
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Licorne
+  rotate: false
+  xy: 588, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Prussian Landwehr
+  rotate: false
+  xy: 588, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Redcoat
+  rotate: false
+  xy: 696, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ship of the Line (Great Britain)
+  rotate: false
+  xy: 804, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Totenkopf Insignia
+  rotate: false
+  xy: 912, 372
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/[Chevau-Léger] ability
+  rotate: false
+  xy: 912, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
