@@ -1,5 +1,5 @@
 # The Napoleonic Era Civs
-  #### This mod adds set of civilizations during the onset of the French Revolution (1789–1799) and the Napoleonic Wars (1803–1815).
+  #### This mod adds a set of civilizations during the onset of the French Revolution (1789–1799) and the Napoleonic Wars (1803–1815).
 -----
 
 
