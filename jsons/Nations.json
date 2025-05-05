@@ -23,7 +23,7 @@
 		"favoredReligion": "Christianity",
 
 		"uniqueName": "La Grande Armée",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]","[+15]% Strength <for [{Land}] units> <when adjacent to a [{Friendly} {Land}] unit>","[+1] Movement <for [{Land}] units> <when adjacent to a [{Friendly} {Land}] unit>"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]","[+15]% Strength <for [Land] units> <when adjacent to a [{Friendly} {Land}] unit>","[+1] Movement <for [Land] units> <when adjacent to a [{Friendly} {Land}] unit>"],
 
 		"cities": ["Paris","Marseille","Lyon","Bordeaux","Rouen","Nantes","Toulouse","Rome","Amsterdam","Lille","Toulon","Barcelona","Brussels",
 			"Strasbourg","Geneva","Brest","Metz","Turin","Florence","Saint-Étienne","Nîmes","Amiens","Orléans","Cologne","Hamburg","Angers",
