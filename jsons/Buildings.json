@@ -14,15 +14,17 @@
 		"requiredTech": "Scientific Theory"
 	},
 	{
-		"name": "Royal Navy Dockyard",
-		"replaces": "Harbor",
+		"name": "Naval Dockyard",
+		"replaces": "Seaport",
 		"uniqueTo": "Great Britain",
-		"cost": 120,
-		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Production] from [Water resource] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast]"],
-		"requiredTech": "Compass"
+		"production": 1,
+		"maintenance": 3,
+		"requiredBuilding": "Harbor",
+		"uniques": ["Must be next to [Coast]", 
+		"[+33]% Production when constructing [Water] units [in this city]",
+		"[+1 Production, +1 Gold] from [Water resource] tiles [in this city]"],
+		"requiredTech": "Navigation",
 	},
 	{
 
@@ -34,5 +36,13 @@
 		"requiredBuilding": "Armory",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured","New spies start with [1] level(s) <in this city>"],
 		"requiredTech": "Military Science"
-	}
+	},
+	{
+		"name": "Winter Quarters",
+		"uniqueTo": "Russian Empire",
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+		"uniques": ["[Wounded] Units adjacent to this city heal [20] HP per turn when healing"],
+		"requiredTech": "Gunpowder",
+	}	
 ]
