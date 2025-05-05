@@ -85,7 +85,8 @@
 		"innerColor": [0,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "European Restoration",
-		"uniques": ["[+10]% Great Person generation [in all cities] <for every [Completed Policy branches]>","[-10]% enemy spy effectiveness [in all cities] <for every [Completed Policy branches]>"],
+		"uniques": ["[+10]% Great Person generation [in all cities] <for every [Completed Policy branches]> <hidden from users>","[-10]% enemy spy effectiveness [in all cities] <for every [Completed Policy branches]> <hidden from users>",
+			"Comment [Completing a policy branch grants +10% Great Person generation and reduces enemy spy effectiveness by -10% in all cities]"],
 		
 		"cities": ["Vienna","Prague","Budapest","Graz","Brno","Lviv","Trieste","Innsbruck","Salzburg","Klagenfurt","Ljubljana","Zagreb","Debrecen",
 			"Sibiu","Temesvár","Pressburg","Olomouc","Krems","Linz","Sopron","Maribor","Košice","České Budějovice","Timișoara","Sarajevo","Mostar",
@@ -115,8 +116,8 @@
 		"innerColor": [33,30,28],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Krümpersystem",
-		"uniqueText": "+1 [Science] from Barracks and Armory, and all Military Land units gain the [[Krümpersystem] ability] which gives +10% Strength and +1 Movement for the first 3 turns",
-		"uniques": ["[+1 Science] from all [Barracks] buildings","[+1 Science] from all [Armory] buildings","[{Military} {Land}] units gain the [[Krümpersystem] ability] promotion"],
+		"uniques": ["[+1 Science] from all [Barracks] buildings <hidden from users>","[+1 Science] from all [Armory] buildings <hidden from users>","[{Military} {Land}] units gain the [[Krümpersystem] ability] promotion <hidden from users>",
+			"Comment [+1 [Science] from Barracks and Armory]","Comment [+20% Strength and +1 Movement for Military Land units for 5 turns at wartime]"],
 
 		"cities": ["Berlin","Königsberg","Breslau","Stettin","Magdeburg","Potsdam","Danzig","Erfurt","Cologne","Frankfurt an der Oder","Leipzig",
 			"Halle","Tilsit","Kassel","Glogau","Cottbus","Brandenburg","Marienburg","Allenstein","Elbing","Wittenberg","Naumburg","Merseburg",
@@ -146,7 +147,9 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Alliance",
-		"uniques": ["[+33]% Natural religion spread [in all cities in which the majority religion is a major religion] <upon declaring friendship>","[+30]% XP gained from combat <for [all] units> <when fighting in [Friendly Land] tiles> <upon declaring friendship>","Unit will heal every turn, even if it performs an action <for [all units> <when fighting in [Friendly Land] tiles> <upon declaring friendship>"],
+		"uniques": ["[+33]% Natural religion spread [in all cities in which the majority religion is a major religion] <upon declaring friendship> <hidden from users>","[+33]% XP gained from combat <for [all] units> <when fighting in [Friendly Land] tiles> <upon declaring friendship> <hidden from users>",
+			"Unit will heal every turn, even if it performs an action <for [all units> <when fighting in [Friendly Land] tiles> <upon declaring friendship> <hidden from users>",
+			"Comment [Upon declaring friendship, your natural religion spreads +33% faster in cities where the majority religion is a major religion","Comment [All units gain +33% more XP from combat and heal every turn in Friendly Land territory]"],
 		
 		"cities": ["St.Petersburg","Moscow","Kiev","Novgorod","Kharkov","Kazan","Simferopol","Smolensk","Kaluga","Minsk","Vitebsk","Borodino","Maloyaroslavets",
 			"Borisov","Fili","Vilno","Riga","Revel","Helsingfors","Belostok","Warsaw","Yekaterinoslav","Tula","NizhniyNovgorod","Rostov-on-Don","Stavropol",
