@@ -14,5 +14,9 @@
      {
           "name": "[Don Cossack] ability",
           "uniques": ["Earn [50]% of killed [Wounded] unit's [Strength] as [Gold]"],
+     },
+     {
+          "name": "[Krümpersystem] ability",
+          "uniques": ["[+20]% Strength <for [5] turns> <when at war>","[+1] Movement <for [5] turns> <when at war>","Will not be displayed in Civilopedia"],
      }
 ]
