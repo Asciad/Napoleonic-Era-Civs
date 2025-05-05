@@ -42,13 +42,13 @@
 		"replaces": "Palace",
 		"uniqueTo": "Russian Empire",
 		"isNationalWonder": true,
-		"production": 4,
+		"production": 3,
 		"science": 3,
 		"gold": 3,
 		"culture": 3,
 		"cityStrength": 5,
 		"cityHealth": 20,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","[+1 Happiness] <for every [2] [Wonders]>"]
+		"uniques": ["Indicates the capital city","[+1 Happiness] <for every [2] [[Wonder] Buildings]>"],
 	}
 ]
