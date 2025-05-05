@@ -9,6 +9,10 @@
      },
      {
           "name": "[Austrian Hussar] ability",
-          "uniques": [" "],
+          "uniques": ["[+33]% to Flank Attack bonuses","[+1] Movement <in [Friendly Land] tiles>"],
+     },
+     {
+          "name": "[Don Cossack] ability",
+          "uniques": ["Earn [50]% of killed [Wounded] unit's [Strength] as [Gold]"],
      }
 ]
