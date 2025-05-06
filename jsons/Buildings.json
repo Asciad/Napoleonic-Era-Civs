@@ -10,7 +10,7 @@
 		"requiredBuilding": "University",
 		"maintenance": 2,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]","Comment [+1 [Great General] points]"],
 		"requiredTech": "Scientific Theory"
 	},
 	{
