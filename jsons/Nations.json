@@ -5,6 +5,7 @@
 		"leaderName": "Napoleon I", 
 		"adjective": ["French"],
 		"startBias": ["Wine"],
+		"personality": "Napoleon I",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Long life and triumph to you, First Consul and Emperor of France, Napoleon I, ruler of the French people. France lies at the heart of Europe. Long has Paris been the world center of culture, arts and letters. Although surrounded by competitors - and often enemies - France has endured as a great nation. Its armies have marched triumphantly into battle from one end of the world to the other, its soldiers and generals among the best in history.",
@@ -40,6 +41,7 @@
 		"leaderName": "George III", 
 		"adjective": ["British"], 
 		"startBias": ["Coast"],
+		"personality": "George III",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "King George III, sovereign of the British Empire and ruler of the seas, your fleets dominate the waves.",
@@ -70,6 +72,7 @@
 		"leaderName": "Francis II",
 		"adjective": ["Austrian"],
 		"startBias": ["Hill"],
+		"personality": "Francis II",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Emperor Francis II, last Holy Roman Emperor and ruler of Austria, your empire stands at the heart of Europe.",
@@ -100,7 +103,8 @@
 	{
 		"name": "Kingdom of Prussia", 
 		"leaderName": "Frederick William III", 
-		"adjective": ["Prussian"], 
+		"adjective": ["Prussian"],
+		"personality": "Frederick William III",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "King Frederick William III, ruler of Prussia and reformer of the army, your kingdom stands as Europe's rising sword.",
@@ -133,6 +137,7 @@
 		"leaderName": "Alexander I", 
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
+		"personality": "Alexander I",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Tsar Alexander I, sovereign of the vast Russian Empire, your armies endure where others falter.",
