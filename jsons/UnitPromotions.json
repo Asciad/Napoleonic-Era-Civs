@@ -17,6 +17,6 @@
      },
      {
           "name": "[Krümpersystem] ability",
-          "uniques": ["[+20]% Strength <for [5] turns> <when at war>","[+1] Movement <for [5] turns> <when at war>","Will not be displayed in Civilopedia"],
+          "uniques": ["[+15]% Strength <for [5] turns> <when at war>","[+1] Movement <for [5] turns> <when at war>","Will not be displayed in Civilopedia"],
      }
 ]
