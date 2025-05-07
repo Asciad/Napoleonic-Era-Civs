@@ -138,7 +138,7 @@
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"personality": "Alexander I",
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Tsar Alexander I, sovereign of the vast Russian Empire, your armies endure where others falter.",
 		"startIntroPart2": "Will you defend your realm or strike at the heart of Europe?",
