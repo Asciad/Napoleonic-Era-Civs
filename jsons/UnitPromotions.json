@@ -16,7 +16,7 @@
           "uniques": ["Earn [50]% of killed [Wounded] unit's [Strength] as [Gold]"],
      },
      {
-          "name": "[Krümpersystem] ability",
-          "uniques": ["[+15]% Strength <for [5] turns> <when at war>","[+1] Movement <for [5] turns> <when at war>","Will not be displayed in Civilopedia"],
+          "name": "[La Grande Armeé] ability",
+          "uniques": ["[+10]% Strength <when adjacent to a [Land] unit>","[+1] Movement <when adjacent to a [Land] unit>","Will not be displayed in Civilopedia"],
      }
 ]
