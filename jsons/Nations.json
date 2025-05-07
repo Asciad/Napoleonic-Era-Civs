@@ -124,7 +124,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Krümpersystem",
 		"uniques": ["[+1 Science] from all [Barracks] buildings <hidden from users>","[+1 Science] from all [Armory] buildings <hidden from users>","[{Military} {Land}] units gain the [[Krümpersystem] ability] promotion <hidden from users>",
-			"Comment [+1 [Science] from Barracks and Armory]","Comment [+20% Strength and +1 Movement for Military Land units for 5 turns at wartime]"],
+			"Comment [+1 [Science] from Barracks and Armory]","Comment [+15% Strength and +1 Movement for Military Land units for 5 turns at wartime]"],
 
 		"cities": ["Berlin","Königsberg","Breslau","Stettin","Magdeburg","Potsdam","Danzig","Erfurt","Cologne","Frankfurt an der Oder","Leipzig",
 			"Halle","Tilsit","Kassel","Glogau","Cottbus","Brandenburg","Marienburg","Allenstein","Elbing","Wittenberg","Naumburg","Merseburg",
