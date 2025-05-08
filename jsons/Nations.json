@@ -157,8 +157,7 @@
 		"innerColor": [0,79,206],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Alliance",
-		"uniques": ["[+33]% Natural religion spread [in all cities in which the majority religion is a major religion] <upon declaring friendship> <hidden from users>","[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles> <upon declaring friendship> <hidden from users>","[Great General] is earned [+20]% faster <upon declaring friendship> <hidden from users>",
-		    "Comment [Upon declaring friendship, your religion naturally spreads +33% faster in cities where the majority religion is a major religion, Land units gain +10% Strength in Friendly Land tiles, and Great Generals are earned +20% faster]"],
+		"uniques": ["[+33]% Natural religion spread [in all cities in which the majority religion is a major religion] <upon declaring friendship>","[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","[Great General] is earned [+20]% faster <for [Land] units> <when fighting in [Friendly Land] tiles>",
 		
 		"cities": ["St.Petersburg","Moscow","Kiev","Novgorod","Kharkov","Kazan","Simferopol","Smolensk","Kaluga","Minsk","Vitebsk","Borodino","Maloyaroslavets",
 			"Borisov","Fili","Vilno","Riga","Revel","Helsingfors","Belostok","Warsaw","Yekaterinoslav","Tula","NizhniyNovgorod","Rostov-on-Don","Stavropol",
