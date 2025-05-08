@@ -70,18 +70,18 @@
     "aggressive": 7,
     "declareWar": 6,
     "commerce": 4,
-    "diplomacy": 4,
+    "diplomacy": 5,
     "loyal": 7,
     "expansion": 7,
     "priorities": {
       "Tradition": 6,
-      "Liberty": 6,
+      "Liberty": 5,
       "Honor": 9,
       "Commerce": 4,
       "Patronage": 3,
       "Piety": 4,
       "Rationalism": 6,
-      "Freedom": 4,
+      "Freedom": 3,
       "Autocracy": 8,
       "Order": 7
     }
@@ -133,13 +133,13 @@
     "expansion": 5,
     "priorities": {
       "Tradition": 7,
-      "Liberty": 4,
-      "Honor": 6,
+      "Liberty": 3,
+      "Honor": 5,
       "Commerce": 5,
       "Patronage": 6,
       "Piety": 6,
       "Rationalism": 5,
-      "Freedom": 3,
+      "Freedom": 2,
       "Autocracy": 6,
       "Order": 8,
     }
