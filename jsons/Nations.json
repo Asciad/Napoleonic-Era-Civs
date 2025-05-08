@@ -25,8 +25,9 @@
 		"favoredReligion": "Christianity",
 
 		"uniqueName": "La Grande Armée",
-		"uniques": ["Upon capturing a city, receive [3] times its [Culture] production as [Culture] immediately <hidden from users>","Upon capturing a city, receive [3] times its [Production] production as [Production] immediately <hidden from users>","Comment [Upon capturing a city, receive immediately 3 times its respective [Culture] and [Production]]","[{Military} {Land}] units gain the [[La Grande Armeé] ability] promotion <hidden from users>",
-			"Comment [Land units gain +12% Strength and +1 Movement when adjacent to another land unit]"],
+		"uniques": ["Upon capturing a city, receive [3] times its [Culture] production as [Culture] immediately <hidden from users>","Upon capturing a city, receive [3] times its [Production] production as [Production] immediately <hidden from users>",
+			"[{Military} {Land}] units gain the [[La Grande Armeé] ability] promotion <hidden from users>",
+			"Comment [Land units gain +12% Strength and +1 Movement when adjacent to another land unit]","Comment [Upon capturing a city, receive immediately 3 times its respective [Culture] and [Production]]"],
 
 		"cities": ["Paris","Marseille","Lyon","Bordeaux","Rouen","Nantes","Toulouse","Rome","Amsterdam","Lille","Toulon","Barcelona","Brussels",
 			"Strasbourg","Geneva","Brest","Metz","Turin","Florence","Saint-Étienne","Nîmes","Amiens","Orléans","Cologne","Hamburg","Angers",
