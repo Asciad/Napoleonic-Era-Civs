@@ -49,6 +49,6 @@
 		"cityStrength": 5,
 		"cityHealth": 20,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","[+1 Happiness] <for every [2] [[Wonder] Buildings]>"],
+		"uniques": ["Indicates the capital city","[+1 Happiness] <for every [2] [[Wonder] Buildings]>","[-30]% Culture cost of natural border growth [in all cities]"],
 	}
 ]
