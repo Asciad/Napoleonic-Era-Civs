@@ -134,14 +134,14 @@
     "priorities": {
       "Tradition": 10,
       "Liberty": 3,
-      "Honor": 6,
+      "Honor": 5,
       "Commerce": 5,
       "Patronage": 6,
       "Piety": 7,
       "Rationalism": 4,
       "Freedom": 3,
-      "Autocracy": 8,
-      "Order": 8
+      "Autocracy": 7,
+      "Order": 7,
     }
   }
 ]
