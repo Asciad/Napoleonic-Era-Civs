@@ -159,7 +159,7 @@
 		"uniqueName": "Holy Alliance",
 		"uniques": ["[+33]% Natural religion spread [in all cities in which the majority religion is a major religion] <upon declaring friendship>","[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>","[Great General] is earned [+20]% faster <for [Land] units> <when fighting in [Friendly Land] tiles>",
 		
-		"cities": ["St.Petersburg","Moscow","Kiev","Novgorod","Kharkov","Kazan","Simferopol","Smolensk","Kaluga","Minsk","Vitebsk","Borodino","Maloyaroslavets",
+		"cities": ["St. Petersburg","Moscow","Kiev","Novgorod","Kharkov","Kazan","Simferopol","Smolensk","Kaluga","Minsk","Vitebsk","Borodino","Maloyaroslavets",
 			"Borisov","Fili","Vilno","Riga","Revel","Helsingfors","Belostok","Warsaw","Yekaterinoslav","Tula","NizhniyNovgorod","Rostov-on-Don","Stavropol",
 			"Tsaritsyn","Yekaterinburg","Akhtiar","Yekaterinodar","Tobolsk","Omsk","Tomsk","Krasnoyarsk","Irkutsk","Yakutsk","Petropavlovsk"],
 		"spyNames": ["Alexander I","Kutusov","Barclay de Tolly","Karamzin","Rennenkampf","Bagration","Kornilov","Suvorov","Pahlen","Rumyantsev"]
