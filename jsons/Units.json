@@ -161,7 +161,7 @@
 		"strength": 28,
 		"cost": 200,
 		"requiredTech": "Rifling",
-	        "uniques": ["[+10]% Strength <in [Friendly Land] tiles>","Earn [50]% of killed [Wounded] unit's [Strength] as [Culture]","Ignores terrain cost"],
+	        "uniques": ["[+15]% Strength <in [Friendly Land] tiles>","Earn [50]% of killed [Wounded] unit's [Strength] as [Culture]","Ignores terrain cost"],
                 "obsoleteTech": "Replaceable Parts", 
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
