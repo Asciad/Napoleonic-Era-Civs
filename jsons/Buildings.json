@@ -50,5 +50,16 @@
 		"cityHealth": 20,
 		"cost": 1,
 		"uniques": ["Indicates the capital city","[+1 Happiness] <for every [2] [[Wonder] Buildings]>","[-30]% Culture cost of natural border growth [in all cities]"],
+	},
+	{
+		"name": "Junta Provincial",
+		"replaces": "Courthouse",
+		"uniqueTo": "Kingdom of Spain",
+		"Happiness": 1,
+		"Culture": 2,
+		"maintenance": 3,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities","Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
 	}
 ]
