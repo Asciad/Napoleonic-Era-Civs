@@ -205,20 +205,20 @@
 		"personality": "Ferdinand VII",
 		"preferredVictoryType": "Cultural",
 
-		"startIntroPart1": "King Charles IV, ruler of a once-mighty empire, Spain looks to you to reclaim its glory.",
-		"startIntroPart2": "Can you restore order amid chaos and resist the tide of revolution?",
-		"declaringWar": "Spain shall not bend to threats!",
-		"attacked": "We fight for God and Crown!",
-		"defeated": "I... was never meant to rule...",
-		"introduction": "I am Charles of Bourbon, King of Spain. Speak, if your cause is just.",
+		"startIntroPart1": "Ferdinand VII, once a captive, now restored to the throne, Spain watches as you reclaim its soul from revolution.",
+		"startIntroPart2": "Will you crush liberalism and restore divine order to your kingdom?",
+		"declaringWar": "Spain bows to no tyrant—prepare yourself!",
+		"attacked": "The true king returns fire with fire!",
+		"defeated": "My crown... stolen by chaos once more...",
+		"introduction": "I am Ferdinand VII, rightful King of Spain. Speak swiftly—loyalty is in short supply.",
 
-		"neutralHello": "Spain listens—barely.",
-		"hateHello": "We have endured your insults long enough.",
+		"neutralHello": "Spain endures—though trust is scarce.",
+		"hateHello": "Traitors and fools shall find no quarter here.",
 
-		"tradeRequest": "What does your empire bring to our court?",
-
-		"outerColor": [198, 12, 48],
-		"innerColor": [255, 204, 0],
+		"tradeRequest": "Speak your offer, and mind your tone in our court.",
+		
+		"outerColor": [240, 240, 240],
+		"innerColor": [200, 0, 6],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Guerra de la Indepencia",
 		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+20]% Strength <for [Land] units> <when defending> <in [Friendly Land] tiles>"],
