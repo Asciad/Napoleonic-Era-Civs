@@ -4,7 +4,7 @@
 		"replaces": "Public School",
 		"uniqueTo": "French Empire",
 		"science": 3,
-		"culture": 1,
+		"culture": 2,
 		"specialistSlots": {"Scientist": 1},
 		"greatPersonPoints": {"Great General": 1},
 		"requiredBuilding": "University",
