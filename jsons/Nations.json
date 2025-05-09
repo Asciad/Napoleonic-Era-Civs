@@ -168,7 +168,9 @@
 	{ 
 		"name": "Ottoman Empire", 
 		"leaderName": "Selim III", 
-		"adjective": ["Ottoman"], 
+		"adjective": ["Ottoman"],
+		"startBiad": ["Coast"],
+		"personality": "Selim III",
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "Sultan Selim III, reformer of the Ottoman Empire, your lands stretch across continents.",
@@ -183,11 +185,11 @@
 		
 		"tradeRequest": "We consider your trade. Speak.",
 
-		"outerColor": [0, 102, 0],
-		"innerColor": [255, 255, 255],
+		"outerColor": [7, 127, 0],
+		"innerColor": [253, 216, 13],
 		"favoredReligion": "Islam",
-		"uniqueName": " ",
-		"uniques": [" "],
+		"uniqueName": "Nizam-i Cedid",
+		"uniques": ["[+1 Science, +1 Production] <in cities with a [Barracks]>","[+10]% Production when constructing [Land] units [in all cities]","[+1 Gold] from each Trade Route <in cities with a [foreign] religion>"],
 		
 		"cities": ["Constantinople","Bursa","Cairo","Aleppo","Edirne","Mecca","Kudüs","Medina","Salonica","Trabzon","Kayseri","Erzurum","Amasya",
 			"Karaman","Iznik","Rosetta","Alexandria","Damascus","Athens","Belgrade","Izmit","Tripoli","Algiers","Sofia","Gallipoli","Ankara",
