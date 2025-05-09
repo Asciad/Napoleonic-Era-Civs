@@ -197,7 +197,7 @@
 	},
 	{
 		"name": "Kingdom of Spain", 
-		"leaderName": "Charles IV", 
+		"leaderName": "Ferdinand VII", 
 		"adjective": ["Spanish"], 
 		"preferredVictoryType": "Cultural",
 
@@ -216,8 +216,8 @@
 		"outerColor": [198, 12, 48],
 		"innerColor": [255, 204, 0],
 		"favoredReligion": "Christianity",
-		"uniqueName": " ",
-		"uniques": [" "],
+		"uniqueName": "Guerra de la Indepencia",
+		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+20]% Strength <for [Land] units> <when defending> <in [Friendly Land] tiles>"],
 		
 		"cities": ["Madrid","Barcelona","Seville","Valencia","Zaragoza","Granada","Toledo","Cádiz","Málaga","Bilbao","Salamanca","Valladolid","Burgos",
 			"Santiago de Compostela","Pamplona","Santander","Murcia","Alicante","La Coruña","León","Almería","Logroño","Oviedo","Cuenca","Huesca",
