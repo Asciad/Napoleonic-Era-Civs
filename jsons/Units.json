@@ -7,7 +7,7 @@
 		"uniqueTo": "French Empire",
 		"promotions": ["Great Generals I"],
 		"movement": 2,
-		"strength": 36,
+		"strength": 37,
 		"cost": 230,
 		"requiredTech": "Rifling",
                 "obsoleteTech": "Replaceable Parts", 
