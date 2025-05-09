@@ -2,7 +2,7 @@
 [
    {
 		"name": "Garde Impériale",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 	   	"replaces": "Rifleman",
 		"uniqueTo": "French Empire",
 		"promotions": ["Great Generals I"],
@@ -32,7 +32,7 @@
    },
    {
 		"name": "Redcoat",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 	   	"replaces": "Rifleman",
 		"uniqueTo": "Great Britain",
 		"movement": 2,
@@ -63,7 +63,7 @@
     },
     {
 	        "name": "Kaiserlich-königliche",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 	   	"replaces": "Rifleman",
 		"uniqueTo": "Austrian Empire",
 		"movement": 2,
@@ -93,7 +93,7 @@
     }
     {
     	        "name": "Prussian Landwehr",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 	   	"replaces": "Rifleman",
 		"uniqueTo": "Kingdom of Prussia",
 		"movement": 2,
@@ -154,7 +154,7 @@
    },
    {
 	        "name": "Guerrillero",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 	   	"replaces": "Rifleman",
 		"uniqueTo": "Kingdom of Spain",
 		"movement": 2,
@@ -165,5 +165,20 @@
                 "obsoleteTech": "Replaceable Parts", 
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
-    }
+    },
+    {
+	        "name": "Nizam-i Cedid Infantry",
+		"unitType": "Gunpowder",
+	   	"replaces": "Rifleman",
+		"uniqueTo": "Ottoman Empire",
+		"movement": 2,
+		"strength": 34,
+		"cost": 215,
+		"requiredTech": "Rifling",
+	        "promotions": ["Drill I"],
+	        "uniques": ["[+15]% Strength <vs [non-[Industrial]] units>"],
+                "obsoleteTech": "Replaceable Parts", 
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+     }
 ]
