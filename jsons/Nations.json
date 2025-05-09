@@ -199,6 +199,8 @@
 		"name": "Kingdom of Spain", 
 		"leaderName": "Ferdinand VII", 
 		"adjective": ["Spanish"], 
+		"startBias": ["Coast"],
+		"personality": "Ferdinand VII",
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "King Charles IV, ruler of a once-mighty empire, Spain looks to you to reclaim its glory.",
