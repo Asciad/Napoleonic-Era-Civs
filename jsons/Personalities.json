@@ -1,6 +1,6 @@
 [
   {
-    "name": "Napoleon",
+    "name": "Napoleon I",
     "culture": 5,
     "faith": 2,
     "food": 4,
@@ -12,8 +12,8 @@
     "aggressive": 9,
     "declareWar": 8,
     "commerce": 6,
-    "diplomacy": 2,
-    "loyal": 4,
+    "diplomacy": 3,
+    "loyal": 2,
     "expansion": 9,
     "priorities": {
       "Tradition": 6,
@@ -101,7 +101,7 @@
     "commerce": 4,
     "diplomacy": 5,
     "loyal": 7,
-    "expansion": 9,
+    "expansion": 8,
     "priorities": {
       "Tradition": 6,
       "Liberty": 5,
