@@ -173,7 +173,7 @@
 		"uniqueTo": "Ottoman Empire",
 		"movement": 2,
 		"strength": 34,
-		"cost": 215,
+		"cost": 225,
 		"requiredTech": "Rifling",
 	        "promotions": ["Drill I"],
 	        "uniques": ["[+15]% Strength <vs [Sword] units> <hidden from users>","[+15]% Strength <vs [Archery] units> <hidden from users>","[+15]% Strength <vs [Musketman] units> <hidden from users>","[+15]% Strength <vs [Trebuchet] units> <hidden from users>","[+15]% Strength <vs [Cannon] units> <hidden from users>","[+15]% Strength <vs [Catapult] units> <hidden from users>","[+15]% Strength <vs [Lancer] units> <hidden from users>",
