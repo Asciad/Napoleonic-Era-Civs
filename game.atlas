@@ -13,21 +13,21 @@ BuildingIcons/Hofkriegsrat
   index: -1
 BuildingIcons/Lycée Impérial
   rotate: false
-  xy: 696, 372
+  xy: 588, 156
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Royal Navy Dockyard
   rotate: false
-  xy: 804, 372
+  xy: 804, 264
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Winter Palace
   rotate: false
-  xy: 804, 156
+  xy: 912, 156
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -60,9 +60,23 @@ NationIcons/Kingdom of Prussia
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Kingdom of Spain
+  rotate: false
+  xy: 588, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ottoman Empire
+  rotate: false
+  xy: 696, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Russian Empire
   rotate: false
-  xy: 696, 156
+  xy: 912, 372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -125,42 +139,42 @@ UnitIcons/Kaiserlich-königliche
   index: -1
 UnitIcons/Licorne
   rotate: false
-  xy: 588, 264
+  xy: 696, 372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Prussian Landwehr
   rotate: false
-  xy: 588, 156
+  xy: 804, 372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Redcoat
   rotate: false
-  xy: 696, 264
+  xy: 696, 156
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ship of the Line (Great Britain)
   rotate: false
-  xy: 804, 264
+  xy: 804, 156
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Totenkopf Insignia
   rotate: false
-  xy: 912, 372
+  xy: 912, 264
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/[Chevau-Léger] ability
   rotate: false
-  xy: 912, 264
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
