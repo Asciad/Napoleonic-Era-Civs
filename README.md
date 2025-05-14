@@ -9,10 +9,8 @@
 - Austrian Empire ☑️
 - Kingdom of Prussia ☑️
 - Russian Empire ☑️
-
-  
-- Ottoman Empire
-- Kingdom of Spain
+- Ottoman Empire ☑️ (missing personality and image error)
+- Kingdom of Spain ☑️
 - Kingdom of Portugal
 - Kingdom of Denmark-Norway
 - Kingdom of Sweden
