@@ -189,7 +189,7 @@
 		"innerColor": [253, 216, 13],
 		"favoredReligion": "Islam",
 		"uniqueName": "Nizam-i Cedid",
-		"uniques": ["[+1 Science, +1 Production] <in cities with a [Barracks]>","[+10]% Production when constructing [Land] units [in all cities]","[+1 Gold] from each Trade Route <in cities with a [foreign] religion>"],
+		"uniques": ["[+1 Science, +1 Production] <in cities with a [Barracks]>","[-25]% maintenance costs <for [Military] units> <in [Annexed] cities>","[+1 Gold] from each Trade Route <in cities with a [foreign] religion>"],
 		
 		"cities": ["Constantinople","Bursa","Cairo","Aleppo","Edirne","Mecca","Kudüs","Medina","Salonica","Trabzon","Kayseri","Erzurum","Amasya",
 			"Karaman","Iznik","Rosetta","Alexandria","Damascus","Athens","Belgrade","Izmit","Tripoli","Algiers","Sofia","Gallipoli","Ankara",
